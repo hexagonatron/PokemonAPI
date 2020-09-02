@@ -1,5 +1,5 @@
-/* const moves = [
-    ["Dragon Darts", 100],
+const moves = [
+    ["Dragon Darts", 48.123],
     ["U-turn", 45.261],
     ["Draco Meteor", 44.806],
     ["Shadow Ball", 31.811],
@@ -17,9 +17,9 @@
     ["Psychic Fangs",  4.466],
     ["Thunder",  3.537],
     ["Other", 17.269],
-] */
+]
 
-const moves = [
+/* const moves = [
     ["move 2", 100],
     ["move 3", 100],
     ["always move", 99],
@@ -27,7 +27,7 @@ const moves = [
     ["move 5", 25],
     ["move 6", 25],
     ["move 1", 1],
-]
+] */
 
 const movesProbability = moves.map((move) => [move[0], (move[1]/100)])
 //.filter((move) => move[0] != "Other" && moves[0] != "Nothing");
@@ -36,7 +36,7 @@ const movesProbabilitySorted = movesProbability.sort((a, b) => b[1] - a[1])
 
 console.log(movesProbabilitySorted)
 
-const selectFourMoves = (moveArr) => {
+const selectFourMovesChristophersWay = (moveArr) => {
     const movesAvailable = [...moveArr];
     
     const selected= [];
@@ -76,40 +76,52 @@ const selectFourMoves = (moveArr) => {
 
 }
 
+const selectFourMovesMyWay = (moveArr) => {
+    const movesAvailable = JSON.parse(JSON.stringify(moveArr));
+
+    const ingegerProbs = movesAvailable.map((move) => [move[0], Math.round(move[1]*100000)])
+    console.log(ingegerProbs);
+}
+
 // console.log(selectFourMoves(movesProbabilitySorted));
 
-const bulkMoves = [];
+const testMethod = (method) => {
 
-//Generate 1000 sets
-for(let i =0; i < 1000000; i++){
-    bulkMoves.push(selectFourMoves(movesProbabilitySorted))
-}
-
-// console.log(bulkMoves)
-
-// count move probs
-
-const hash = {
-    total: bulkMoves.length,
-    moveTally: {},
-}
-
-//loop through movesets and tally them up
-for(moveset of bulkMoves){
-    for(move of moveset){
-        if(hash.moveTally[move]){
-            hash.moveTally[move]++;
-        } else {
-            hash.moveTally[move] = 1;
+    const bulkMoves = [];
+    
+    //Generate 1000 sets
+    for(let i =0; i < 1000000; i++){
+        bulkMoves.push(method(movesProbabilitySorted))
+    }
+    
+    // console.log(bulkMoves)
+    
+    const hash = {
+        total: bulkMoves.length,
+        moveTally: {},
+    }
+    
+    //loop through movesets and tally them up
+    for(moveset of bulkMoves){
+        for(move of moveset){
+            if(hash.moveTally[move]){
+                hash.moveTally[move]++;
+            } else {
+                hash.moveTally[move] = 1;
+            }
         }
     }
+    
+    //loop through tally and calc percentage
+    const percentages = []
+    for(move in hash.moveTally){
+        percentages.push([move, (hash.moveTally[move]/hash.total)*100 ])
+    }
+    percentages.sort((a,b) => b[1]-a[1]);
+    
+    console.log(percentages)
 }
 
-//loop through tally and calc percentage
-const percentages = []
-for(move in hash.moveTally){
-    percentages.push([move, (hash.moveTally[move]/hash.total)*100 ])
-}
-percentages.sort((a,b) => b[1]-a[1]);
+// testMethod(selectFourMovesChristophersWay);
 
-console.log(percentages)
+selectFourMovesMyWay(movesProbabilitySorted)

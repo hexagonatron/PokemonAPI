@@ -1,0 +1,2360 @@
+ +----------------------------------------+ 
+ | Dragapult                              | 
+ +----------------------------------------+ 
+ | Raw count: 952266                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Infiltrator 81.150%                    | 
+ | Clear Body 15.202%                     | 
+ | Cursed Body  3.648%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 26.678%                   | 
+ | Life Orb 22.936%                       | 
+ | Leftovers 14.615%                      | 
+ | Heavy-Duty Boots 11.009%               | 
+ | Choice Band  4.381%                    | 
+ | Spell Tag  4.298%                      | 
+ | Choice Scarf  3.942%                   | 
+ | Focus Sash  2.280%                     | 
+ | Dragon Fang  1.921%                    | 
+ | Expert Belt  1.493%                    | 
+ | Assault Vest  0.877%                   | 
+ | Light Clay  0.661%                     | 
+ | Other  4.908%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:0/0/0/252/4/252 17.865%         | 
+ | Timid:0/0/0/252/4/252 16.494%          | 
+ | Adamant:0/252/0/0/4/252 10.681%        | 
+ | Lonely:0/252/0/4/0/252  7.681%         | 
+ | Jolly:0/252/0/0/4/252  5.672%          | 
+ | Mild:0/68/0/188/0/252  4.558%          | 
+ | Other 37.050%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Darts 48.123%                   | 
+ | U-turn 45.261%                         | 
+ | Draco Meteor 44.806%                   | 
+ | Shadow Ball 31.811%                    | 
+ | Hex 30.059%                            | 
+ | Dragon Dance 29.892%                   | 
+ | Fire Blast 24.040%                     | 
+ | Phantom Force 21.784%                  | 
+ | Flamethrower 17.640%                   | 
+ | Thunderbolt 16.904%                    | 
+ | Thunder Wave 16.151%                   | 
+ | Steel Wing 15.896%                     | 
+ | Will-O-Wisp 12.525%                    | 
+ | Substitute 10.321%                     | 
+ | Sucker Punch  9.518%                   | 
+ | Psychic Fangs  4.466%                  | 
+ | Thunder  3.537%                        | 
+ | Other 17.269%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Clefable +3.571%                       | 
+ | Toxapex +2.949%                        | 
+ | Excadrill +2.738%                      | 
+ | Urshifu +2.335%                        | 
+ | Hippowdon +2.266%                      | 
+ | Rotom-Heat +2.120%                     | 
+ | Corviknight +1.270%                    | 
+ | Bisharp +0.938%                        | 
+ | Mandibuzz +0.732%                      | 
+ | Mew +0.545%                            | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Bisharp 82.527 (83.97±0.36)            |
+ |	 (37.1% KOed / 46.8% switched out)| 
+ | Comfey 78.348 (80.75±0.60)             |
+ |	 (27.6% KOed / 53.2% switched out)| 
+ | Grimmsnarl 76.734 (78.53±0.45)         |
+ |	 (14.8% KOed / 63.8% switched out)| 
+ | Umbreon 76.397 (79.22±0.71)            |
+ |	 (19.1% KOed / 60.1% switched out)| 
+ | Sylveon 74.428 (76.82±0.60)            |
+ |	 (22.7% KOed / 54.1% switched out)| 
+ | Mimikyu 73.986 (76.33±0.59)            |
+ |	 (37.0% KOed / 39.3% switched out)| 
+ | Krookodile 71.121 (73.29±0.54)         |
+ |	 (30.3% KOed / 43.0% switched out)| 
+ | Tyranitar 68.128 (69.63±0.38)          |
+ |	 (18.3% KOed / 51.3% switched out)| 
+ | Mamoswine 67.862 (70.23±0.59)          |
+ |	 (29.7% KOed / 40.5% switched out)| 
+ | Weavile 67.357 (69.39±0.51)            |
+ |	 (32.3% KOed / 37.1% switched out)| 
+ | Primarina 67.098 (68.52±0.36)          |
+ |	 (25.7% KOed / 42.8% switched out)| 
+ | Slurpuff 66.587 (70.84±1.06)           |
+ |	 (31.1% KOed / 39.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Clefable                               | 
+ +----------------------------------------+ 
+ | Raw count: 823725                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Magic Guard 85.276%                    | 
+ | Unaware 13.653%                        | 
+ | Cute Charm  1.072%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 72.892%                      | 
+ | Life Orb 14.189%                       | 
+ | Focus Sash  2.700%                     | 
+ | Choice Scarf  2.395%                   | 
+ | Sticky Barb  2.195%                    | 
+ | Heavy-Duty Boots  1.427%               | 
+ | Other  4.202%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/4/0 25.221%           | 
+ | Calm:252/0/0/4/252/0 11.119%           | 
+ | Bold:252/0/252/4/0/0  6.987%           | 
+ | Calm:252/0/4/0/252/0  5.197%           | 
+ | Bold:252/0/252/0/0/4  4.217%           | 
+ | Modest:252/0/0/252/4/0  3.345%         | 
+ | Other 43.915%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Moonblast 94.278%                      | 
+ | Soft-Boiled 47.553%                    | 
+ | Wish 44.061%                           | 
+ | Protect 30.656%                        | 
+ | Teleport 28.706%                       | 
+ | Stealth Rock 28.488%                   | 
+ | Calm Mind 24.302%                      | 
+ | Flamethrower 15.511%                   | 
+ | Knock Off 15.076%                      | 
+ | Thunder Wave 10.868%                   | 
+ | Thunderbolt  7.555%                    | 
+ | Moonlight  5.636%                      | 
+ | Fire Blast  5.506%                     | 
+ | Trick  4.849%                          | 
+ | Aromatherapy  4.811%                   | 
+ | Toxic  4.278%                          | 
+ | Thunder  4.038%                        | 
+ | Heal Bell  3.655%                      | 
+ | Cosmic Power  3.226%                   | 
+ | Other 16.944%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Toxapex +8.481%                        | 
+ | Corviknight +7.101%                    | 
+ | Dragapult +4.411%                      | 
+ | Hippowdon +3.892%                      | 
+ | Mandibuzz +3.740%                      | 
+ | Skarmory +3.141%                       | 
+ | Rotom-Heat +2.881%                     | 
+ | Kyurem +2.115%                         | 
+ | Mantine +1.311%                        | 
+ | Ditto +0.960%                          | 
+ | Gastrodon +0.952%                      | 
+ | Amoonguss +0.781%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Gengar 83.889 (84.83±0.23)             |
+ |	 (25.0% KOed / 59.8% switched out)| 
+ | Bisharp 83.078 (84.54±0.37)            |
+ |	 (30.8% KOed / 53.8% switched out)| 
+ | Slowbro-Galar 82.895 (84.76±0.47)      |
+ |	 (20.9% KOed / 63.9% switched out)| 
+ | Excadrill 82.829 (83.35±0.13)          |
+ |	 (14.3% KOed / 69.0% switched out)| 
+ | Copperajah 81.243 (85.87±1.16)         |
+ |	 (26.8% KOed / 59.1% switched out)| 
+ | Marowak-Alola 79.954 (81.16±0.30)      |
+ |	 (36.3% KOed / 44.9% switched out)| 
+ | Toxicroak 79.905 (83.25±0.84)          |
+ |	 (27.6% KOed / 55.6% switched out)| 
+ | Venusaur 79.626 (80.79±0.29)           |
+ |	 (30.9% KOed / 49.9% switched out)| 
+ | Aegislash 78.792 (79.95±0.29)          |
+ |	 (17.8% KOed / 62.1% switched out)| 
+ | Centiskorch 78.667 (82.05±0.85)        |
+ |	 (19.1% KOed / 62.9% switched out)| 
+ | Salazzle 78.576 (80.63±0.51)           |
+ |	 (15.6% KOed / 65.1% switched out)| 
+ | Toxtricity 77.906 (79.25±0.34)         |
+ |	 (25.6% KOed / 53.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rillaboom                              | 
+ +----------------------------------------+ 
+ | Raw count: 795285                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Grassy Surge 98.995%                   | 
+ | Overgrow  1.005%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 39.255%                    | 
+ | Life Orb 25.629%                       | 
+ | Grassy Seed 14.450%                    | 
+ | Leftovers  6.030%                      | 
+ | Assault Vest  3.259%                   | 
+ | Terrain Extender  2.937%               | 
+ | Occa Berry  2.295%                     | 
+ | Choice Scarf  2.194%                   | 
+ | Other  3.950%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 27.675%          | 
+ | Adamant:0/252/0/0/4/252 22.328%        | 
+ | Adamant:0/252/4/0/0/252 18.214%        | 
+ | Adamant:4/252/0/0/0/252  3.950%        | 
+ | Adamant:252/252/0/0/4/0  2.782%        | 
+ | Jolly:0/252/4/0/0/252  2.235%          | 
+ | Other 22.816%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Grassy Glide 95.342%                   | 
+ | Knock Off 61.440%                      | 
+ | U-turn 52.909%                         | 
+ | Swords Dance 42.996%                   | 
+ | Wood Hammer 36.474%                    | 
+ | Drain Punch 29.603%                    | 
+ | High Horsepower 23.002%                | 
+ | Superpower 17.393%                     | 
+ | Acrobatics 12.983%                     | 
+ | Earthquake  7.080%                     | 
+ | Drum Beating  4.276%                   | 
+ | Other 16.502%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Hawlucha +15.239%                      | 
+ | Zeraora +4.768%                        | 
+ | Volcarona +4.427%                      | 
+ | Crawdaunt +4.177%                      | 
+ | Magnezone +3.666%                      | 
+ | Necrozma +2.393%                       | 
+ | Toxtricity +2.269%                     | 
+ | Primarina +1.614%                      | 
+ | Azumarill +1.099%                      | 
+ | Mew +1.011%                            | 
+ | Urshifu +0.990%                        | 
+ | Togekiss +0.943%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Volcarona 78.891 (79.54±0.16)          |
+ |	 (35.2% KOed / 44.3% switched out)| 
+ | Kyurem 78.246 (79.60±0.34)             |
+ |	 (37.4% KOed / 42.1% switched out)| 
+ | Dubwool 77.084 (83.86±1.70)            |
+ |	 (26.3% KOed / 57.5% switched out)| 
+ | Charizard 75.578 (77.52±0.49)          |
+ |	 (38.8% KOed / 38.7% switched out)| 
+ | Salazzle 74.681 (77.40±0.68)           |
+ |	 (30.6% KOed / 46.8% switched out)| 
+ | Vileplume 74.515 (79.47±1.24)          |
+ |	 (21.8% KOed / 57.7% switched out)| 
+ | Togekiss 73.522 (74.36±0.21)           |
+ |	 (26.2% KOed / 48.1% switched out)| 
+ | Weezing 73.479 (83.26±2.45)            |
+ |	 (18.5% KOed / 64.8% switched out)| 
+ | Venusaur 73.340 (74.77±0.36)           |
+ |	 (44.8% KOed / 30.0% switched out)| 
+ | Avalugg 73.297 (79.21±1.48)            |
+ |	 (25.7% KOed / 53.5% switched out)| 
+ | Skarmory 73.280 (74.70±0.35)           |
+ |	 (10.1% KOed / 64.6% switched out)| 
+ | Scolipede 72.914 (75.05±0.53)          |
+ |	 (33.5% KOed / 41.6% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Zeraora                                | 
+ +----------------------------------------+ 
+ | Raw count: 785710                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Heavy-Duty Boots 28.296%               | 
+ | Life Orb 24.384%                       | 
+ | Leftovers 11.112%                      | 
+ | Magnet  6.996%                         | 
+ | Expert Belt  6.829%                    | 
+ | Choice Band  6.600%                    | 
+ | Lum Berry  2.833%                      | 
+ | Assault Vest  2.347%                   | 
+ | Choice Specs  1.894%                   | 
+ | Choice Scarf  1.565%                   | 
+ | Focus Sash  1.523%                     | 
+ | Air Balloon  1.468%                    | 
+ | Other  4.152%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 38.132%          | 
+ | Jolly:0/252/4/0/0/252 12.806%          | 
+ | Hasty:0/252/0/4/0/252  6.510%          | 
+ | Naive:0/252/0/4/0/252  5.201%          | 
+ | Jolly:4/252/0/0/0/252  5.075%          | 
+ | Timid:0/0/0/252/4/252  3.968%          | 
+ | Other 28.308%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Plasma Fists 88.425%                   | 
+ | Close Combat 70.687%                   | 
+ | Knock Off 63.801%                      | 
+ | Volt Switch 47.615%                    | 
+ | Play Rough 23.438%                     | 
+ | Grass Knot 21.640%                     | 
+ | Bulk Up 18.914%                        | 
+ | Blaze Kick 11.626%                     | 
+ | Drain Punch  7.296%                    | 
+ | Thunderbolt  6.708%                    | 
+ | Aura Sphere  6.001%                    | 
+ | Acrobatics  4.210%                     | 
+ | Fire Punch  3.410%                     | 
+ | Taunt  3.247%                          | 
+ | Fake Out  2.810%                       | 
+ | Thunder  2.741%                        | 
+ | Other 17.432%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rillaboom +4.728%                      | 
+ | Scizor +2.524%                         | 
+ | Crawdaunt +2.309%                      | 
+ | Togekiss +2.094%                       | 
+ | Necrozma +1.926%                       | 
+ | Volcarona +1.874%                      | 
+ | Mantine +1.169%                        | 
+ | Mandibuzz +0.991%                      | 
+ | Kyurem +0.908%                         | 
+ | Hawlucha +0.868%                       | 
+ | Urshifu-Rapid-Strike +0.742%           | 
+ | Clefable +0.701%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Tangrowth 77.454 (78.48±0.26)          |
+ |	 (14.3% KOed / 64.2% switched out)| 
+ | Vileplume 76.381 (81.24±1.21)          |
+ |	 (15.9% KOed / 65.4% switched out)| 
+ | Shiinotic 76.168 (79.19±0.76)          |
+ |	 (8.9% KOed / 70.3% switched out) | 
+ | Mudsdale 73.211 (79.11±1.47)           |
+ |	 (21.8% KOed / 57.3% switched out)| 
+ | Leafeon 72.937 (79.65±1.68)            |
+ |	 (34.6% KOed / 45.0% switched out)| 
+ | Venusaur 72.678 (74.08±0.35)           |
+ |	 (33.8% KOed / 40.3% switched out)| 
+ | Corsola-Galar 71.019 (74.45±0.86)      |
+ |	 (9.7% KOed / 64.8% switched out) | 
+ | Palossand 70.786 (75.59±1.20)          |
+ |	 (16.3% KOed / 59.3% switched out)| 
+ | Haxorus 70.728 (73.10±0.59)            |
+ |	 (41.0% KOed / 32.1% switched out)| 
+ | Hippowdon 70.638 (71.43±0.20)          |
+ |	 (12.5% KOed / 58.9% switched out)| 
+ | Amoonguss 70.525 (71.46±0.23)          |
+ |	 (10.9% KOed / 60.6% switched out)| 
+ | Marowak 70.210 (79.72±2.38)            |
+ |	 (30.4% KOed / 49.3% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Excadrill                              | 
+ +----------------------------------------+ 
+ | Raw count: 704620                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Mold Breaker 71.470%                   | 
+ | Sand Rush 26.799%                      | 
+ | Sand Force  1.731%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 37.886%                      | 
+ | Focus Sash 28.602%                     | 
+ | Choice Scarf 10.085%                   | 
+ | Life Orb 10.013%                       | 
+ | Choice Band  3.190%                    | 
+ | Air Balloon  2.609%                    | 
+ | Assault Vest  1.994%                   | 
+ | Heavy-Duty Boots  1.414%               | 
+ | Other  4.206%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 33.222%          | 
+ | Adamant:0/252/0/0/4/252 12.981%        | 
+ | Jolly:0/252/4/0/0/252  9.267%          | 
+ | Jolly:4/252/0/0/0/252  7.185%          | 
+ | Jolly:0/4/0/0/252/252  6.193%          | 
+ | Jolly:0/32/0/0/224/252  3.326%         | 
+ | Other 27.825%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 88.268%                     | 
+ | Iron Head 84.682%                      | 
+ | Rapid Spin 78.779%                     | 
+ | Stealth Rock 48.391%                   | 
+ | Swords Dance 30.428%                   | 
+ | Rock Slide 19.820%                     | 
+ | Toxic 17.958%                          | 
+ | High Horsepower 10.901%                | 
+ | Steel Beam  3.498%                     | 
+ | Other 17.276%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Hippowdon +5.466%                      | 
+ | Tyranitar +4.989%                      | 
+ | Volcarona +3.961%                      | 
+ | Dragapult +3.942%                      | 
+ | Mandibuzz +2.579%                      | 
+ | Amoonguss +1.947%                      | 
+ | Toxapex +1.719%                        | 
+ | Tangrowth +1.210%                      | 
+ | Togekiss +1.190%                       | 
+ | Rotom-Wash +1.182%                     | 
+ | Slowbro +0.885%                        | 
+ | Hydreigon +0.845%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Conkeldurr 85.543 (86.96±0.35)         |
+ |	 (38.8% KOed / 48.2% switched out)| 
+ | Skarmory 83.130 (84.19±0.26)           |
+ |	 (15.7% KOed / 68.5% switched out)| 
+ | Crawdaunt 81.945 (83.12±0.29)          |
+ |	 (41.9% KOed / 41.2% switched out)| 
+ | Hawlucha 80.626 (81.89±0.32)           |
+ |	 (47.2% KOed / 34.6% switched out)| 
+ | Gyarados 78.480 (80.32±0.46)           |
+ |	 (30.4% KOed / 49.9% switched out)| 
+ | Hippowdon 78.150 (79.01±0.21)          |
+ |	 (26.9% KOed / 52.1% switched out)| 
+ | Mudsdale 75.826 (82.55±1.68)           |
+ |	 (34.3% KOed / 48.2% switched out)| 
+ | Krookodile 74.973 (77.41±0.61)         |
+ |	 (36.8% KOed / 40.6% switched out)| 
+ | Urshifu-Rapid-Strike 74.731 (75.97±0.31) |
+ |	 (35.7% KOed / 40.3% switched out)| 
+ | Kommo-o 74.693 (75.92±0.31)            |
+ |	 (35.5% KOed / 40.4% switched out)| 
+ | Azumarill 72.963 (74.30±0.33)          |
+ |	 (41.0% KOed / 33.3% switched out)| 
+ | Sandaconda 72.866 (78.09±1.31)         |
+ |	 (28.9% KOed / 49.2% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Volcarona                              | 
+ +----------------------------------------+ 
+ | Raw count: 677232                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Flame Body 93.747%                     | 
+ | Swarm  6.253%                          | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Heavy-Duty Boots 82.620%               | 
+ | Leftovers  4.790%                      | 
+ | Life Orb  3.519%                       | 
+ | Focus Sash  2.858%                     | 
+ | Lum Berry  1.037%                      | 
+ | Choice Specs  0.493%                   | 
+ | Other  4.683%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:0/0/0/252/4/252 24.966%         | 
+ | Timid:0/0/0/252/4/252 18.872%          | 
+ | Timid:0/0/4/252/0/252 12.563%          | 
+ | Timid:4/0/0/252/0/252  4.942%          | 
+ | Bold:248/0/208/0/0/52  3.553%          | 
+ | Timid:248/0/0/0/8/252  3.142%          | 
+ | Other 31.963%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Quiver Dance 96.941%                   | 
+ | Bug Buzz 67.115%                       | 
+ | Psychic 59.659%                        | 
+ | Fiery Dance 54.768%                    | 
+ | Giga Drain 30.645%                     | 
+ | Flamethrower 29.113%                   | 
+ | Roost 23.415%                          | 
+ | Fire Blast 14.535%                     | 
+ | Safeguard  6.181%                      | 
+ | Other 17.628%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Azumarill +5.480%                      | 
+ | Rillaboom +5.149%                      | 
+ | Urshifu +4.902%                        | 
+ | Excadrill +4.158%                      | 
+ | Zeraora +2.222%                        | 
+ | Hawlucha +2.069%                       | 
+ | Primarina +1.464%                      | 
+ | Accelgor +1.176%                       | 
+ | Ninetales-Alola +1.054%                | 
+ | Haxorus +0.798%                        | 
+ | Cloyster +0.780%                       | 
+ | Bisharp +0.773%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Lycanroc-Dusk 87.567 (89.15±0.40)      |
+ |	 (35.9% KOed / 53.2% switched out)| 
+ | Lycanroc 82.751 (88.92±1.54)           |
+ |	 (38.6% KOed / 50.4% switched out)| 
+ | Gyarados 82.427 (84.33±0.48)           |
+ |	 (47.1% KOed / 37.2% switched out)| 
+ | Araquanid 82.166 (85.30±0.78)          |
+ |	 (47.5% KOed / 37.8% switched out)| 
+ | Azumarill 80.529 (81.53±0.25)          |
+ |	 (38.9% KOed / 42.7% switched out)| 
+ | Crawdaunt 78.658 (79.73±0.27)          |
+ |	 (41.2% KOed / 38.5% switched out)| 
+ | Coalossal 77.969 (81.84±0.97)          |
+ |	 (32.2% KOed / 49.6% switched out)| 
+ | Mantine 77.203 (79.41±0.55)            |
+ |	 (13.5% KOed / 66.0% switched out)| 
+ | Centiskorch 75.560 (78.93±0.84)        |
+ |	 (45.1% KOed / 33.8% switched out)| 
+ | Hawlucha 75.152 (76.43±0.32)           |
+ |	 (56.6% KOed / 19.8% switched out)| 
+ | Talonflame 74.431 (76.99±0.64)         |
+ |	 (33.6% KOed / 43.4% switched out)| 
+ | Marowak-Alola 73.166 (74.76±0.40)      |
+ |	 (48.0% KOed / 26.8% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Urshifu                                | 
+ +----------------------------------------+ 
+ | Raw count: 651536                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Unseen Fist 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 44.863%                    | 
+ | Life Orb 17.990%                       | 
+ | Choice Scarf 15.269%                   | 
+ | Black Glasses 12.930%                  | 
+ | Leftovers  2.339%                      | 
+ | Expert Belt  1.618%                    | 
+ | Other  4.991%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 50.177%          | 
+ | Jolly:0/252/4/0/0/252 15.686%          | 
+ | Adamant:0/252/0/0/4/252 10.546%        | 
+ | Adamant:0/252/4/0/0/252  5.578%        | 
+ | Jolly:4/252/0/0/0/252  5.020%          | 
+ | Adamant:4/252/0/0/0/252  4.246%        | 
+ | Other  8.747%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Wicked Blow 98.064%                    | 
+ | Close Combat 82.798%                   | 
+ | Sucker Punch 64.009%                   | 
+ | U-turn 48.014%                         | 
+ | Poison Jab 29.649%                     | 
+ | Bulk Up 25.398%                        | 
+ | Iron Head 23.161%                      | 
+ | Drain Punch 11.922%                    | 
+ | Other 16.985%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Volcarona +5.107%                      | 
+ | Dragapult +3.721%                      | 
+ | Slowbro +3.254%                        | 
+ | Toxtricity +2.129%                     | 
+ | Primarina +1.550%                      | 
+ | Togekiss +1.429%                       | 
+ | Amoonguss +1.388%                      | 
+ | Rillaboom +1.173%                      | 
+ | Azumarill +1.067%                      | 
+ | Toxapex +0.985%                        | 
+ | Corviknight +0.981%                    | 
+ | Hippowdon +0.938%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Comfey 84.595 (86.65±0.51)             |
+ |	 (30.4% KOed / 56.2% switched out)| 
+ | Hawlucha 79.289 (80.47±0.29)           |
+ |	 (40.0% KOed / 40.4% switched out)| 
+ | Conkeldurr 75.406 (77.12±0.43)         |
+ |	 (22.9% KOed / 54.3% switched out)| 
+ | Weezing-Galar 70.284 (72.05±0.44)      |
+ |	 (14.9% KOed / 57.1% switched out)| 
+ | Keldeo 70.034 (72.85±0.70)             |
+ |	 (27.1% KOed / 45.8% switched out)| 
+ | Ribombee 69.651 (74.53±1.22)           |
+ |	 (19.7% KOed / 54.8% switched out)| 
+ | Slurpuff 68.931 (73.94±1.25)           |
+ |	 (28.6% KOed / 45.4% switched out)| 
+ | Metapod 68.091 (90.00±5.48)            |
+ |	 (3.3% KOed / 86.7% switched out) | 
+ | Togekiss 67.377 (68.23±0.21)           |
+ |	 (22.2% KOed / 46.0% switched out)| 
+ | Kommo-o 66.623 (67.94±0.33)            |
+ |	 (19.7% KOed / 48.2% switched out)| 
+ | Ninetales-Alola 66.451 (68.91±0.62)    |
+ |	 (25.6% KOed / 43.3% switched out)| 
+ | Poliwrath 65.482 (70.21±1.18)          |
+ |	 (28.7% KOed / 41.5% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Toxapex                                | 
+ +----------------------------------------+ 
+ | Raw count: 575310                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Regenerator 94.837%                    | 
+ | Merciless  4.698%                      | 
+ | Limber  0.465%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Black Sludge 71.686%                   | 
+ | Rocky Helmet 17.785%                   | 
+ | Leftovers  5.386%                      | 
+ | Nothing  1.230%                        | 
+ | Other  3.912%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/4/0 29.154%           | 
+ | Calm:252/0/4/0/252/0  6.405%           | 
+ | Impish:252/4/252/0/0/0  5.357%         | 
+ | Relaxed:252/0/64/0/192/0  4.180%       | 
+ | Bold:248/0/252/0/8/0  4.113%           | 
+ | Bold:252/0/96/0/160/0  2.411%          | 
+ | Other 48.379%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Recover 86.805%                        | 
+ | Scald 83.015%                          | 
+ | Haze 71.753%                           | 
+ | Toxic 40.961%                          | 
+ | Knock Off 35.138%                      | 
+ | Baneful Bunker 31.991%                 | 
+ | Toxic Spikes 26.971%                   | 
+ | Liquidation  3.323%                    | 
+ | Gunk Shot  2.767%                      | 
+ | Other 17.276%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Clefable +11.921%                      | 
+ | Mandibuzz +8.156%                      | 
+ | Corviknight +7.020%                    | 
+ | Hippowdon +6.828%                      | 
+ | Dragapult +4.908%                      | 
+ | Blissey +3.315%                        | 
+ | Chansey +2.614%                        | 
+ | Ditto +2.479%                          | 
+ | Tangrowth +2.337%                      | 
+ | Skarmory +2.129%                       | 
+ | Excadrill +1.946%                      | 
+ | Kyurem +1.195%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Alakazam 85.300 (86.33±0.26)           |
+ |	 (22.7% KOed / 63.6% switched out)| 
+ | Dracozolt 81.898 (84.00±0.53)          |
+ |	 (25.0% KOed / 59.0% switched out)| 
+ | Necrozma 81.634 (83.99±0.59)           |
+ |	 (20.7% KOed / 63.3% switched out)| 
+ | Polteageist 81.429 (85.01±0.89)        |
+ |	 (54.9% KOed / 30.1% switched out)| 
+ | Hatterene 80.542 (81.85±0.33)          |
+ |	 (14.3% KOed / 67.6% switched out)| 
+ | Toxtricity 79.535 (81.01±0.37)         |
+ |	 (21.4% KOed / 59.6% switched out)| 
+ | Exeggutor 78.748 (87.20±2.11)          |
+ |	 (16.0% KOed / 71.2% switched out)| 
+ | Espeon 78.523 (81.32±0.70)             |
+ |	 (15.6% KOed / 65.7% switched out)| 
+ | Slowbro-Galar 77.340 (79.62±0.57)      |
+ |	 (16.5% KOed / 63.1% switched out)| 
+ | Sigilyph 77.225 (82.16±1.23)           |
+ |	 (14.6% KOed / 67.5% switched out)| 
+ | Raichu-Alola 77.049 (81.42±1.09)       |
+ |	 (27.4% KOed / 54.1% switched out)| 
+ | Reuniclus 76.418 (79.27±0.71)          |
+ |	 (13.1% KOed / 66.1% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Mandibuzz                              | 
+ +----------------------------------------+ 
+ | Raw count: 505374                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Overcoat 94.200%                       | 
+ | Big Pecks  4.852%                      | 
+ | Weak Armor  0.948%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Heavy-Duty Boots 85.922%               | 
+ | Leftovers  6.817%                      | 
+ | Rocky Helmet  6.000%                   | 
+ | Other  1.261%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:248/0/252/0/8/0  9.308%         | 
+ | Impish:248/0/200/0/44/16  7.690%       | 
+ | Impish:248/0/160/0/44/56  6.205%       | 
+ | Careful:252/0/4/0/252/0  4.425%        | 
+ | Impish:232/0/176/0/4/96  4.300%        | 
+ | Impish:252/0/252/0/4/0  4.123%         | 
+ | Other 63.949%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Roost 97.308%                          | 
+ | Defog 89.365%                          | 
+ | Foul Play 82.304%                      | 
+ | U-turn 60.804%                         | 
+ | Toxic 21.403%                          | 
+ | Brave Bird 20.364%                     | 
+ | Knock Off 16.790%                      | 
+ | Other 11.663%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Toxapex +9.441%                        | 
+ | Hippowdon +6.822%                      | 
+ | Clefable +6.099%                       | 
+ | Excadrill +3.630%                      | 
+ | Amoonguss +2.873%                      | 
+ | Cinderace +2.674%                      | 
+ | Magnezone +2.591%                      | 
+ | Magearna +2.461%                       | 
+ | Rhyperior +2.346%                      | 
+ | Slowbro +2.153%                        | 
+ | Dragapult +1.667%                      | 
+ | Zeraora +1.585%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Kyurem 84.131 (85.69±0.39)             |
+ |	 (34.7% KOed / 51.0% switched out)| 
+ | Sylveon 83.912 (87.02±0.78)            |
+ |	 (19.8% KOed / 67.2% switched out)| 
+ | Eiscue 83.706 (91.95±2.06)             |
+ |	 (45.4% KOed / 46.6% switched out)| 
+ | Togekiss 83.564 (84.53±0.24)           |
+ |	 (20.5% KOed / 64.0% switched out)| 
+ | Porygon-Z 83.055 (85.96±0.73)          |
+ |	 (32.8% KOed / 53.2% switched out)| 
+ | Inteleon 82.501 (86.37±0.97)           |
+ |	 (38.7% KOed / 47.6% switched out)| 
+ | Cloyster 82.456 (85.28±0.71)           |
+ |	 (49.2% KOed / 36.1% switched out)| 
+ | Ninetales-Alola 82.353 (84.71±0.59)    |
+ |	 (17.6% KOed / 67.1% switched out)| 
+ | Primarina 82.180 (83.93±0.44)          |
+ |	 (20.0% KOed / 63.9% switched out)| 
+ | Hatterene 81.357 (83.09±0.43)          |
+ |	 (17.6% KOed / 65.5% switched out)| 
+ | Comfey 81.301 (84.94±0.91)             |
+ |	 (16.1% KOed / 68.9% switched out)| 
+ | Weavile 80.422 (82.80±0.59)            |
+ |	 (36.5% KOed / 46.3% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Corviknight                            | 
+ +----------------------------------------+ 
+ | Raw count: 497232                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Pressure 74.138%                       | 
+ | Mirror Armor 24.331%                   | 
+ | Unnerve  1.531%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 56.712%                      | 
+ | Rocky Helmet 26.733%                   | 
+ | Shed Shell  4.968%                     | 
+ | Weakness Policy  2.740%                | 
+ | Heavy-Duty Boots  2.314%               | 
+ | Aguav Berry  0.671%                    | 
+ | Life Orb  0.626%                       | 
+ | Nothing  0.595%                        | 
+ | Other  4.642%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:252/0/132/0/124/0  9.887%       | 
+ | Impish:252/4/252/0/0/0  9.300%         | 
+ | Impish:252/0/252/0/4/0  8.586%         | 
+ | Impish:248/8/252/0/0/0  6.740%         | 
+ | Careful:252/4/0/0/252/0  4.226%        | 
+ | Careful:252/0/4/0/252/0  4.193%        | 
+ | Other 57.069%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Roost 91.002%                          | 
+ | Defog 69.066%                          | 
+ | Body Press 57.108%                     | 
+ | Brave Bird 52.344%                     | 
+ | U-turn 48.227%                         | 
+ | Bulk Up 21.387%                        | 
+ | Iron Head 19.045%                      | 
+ | Iron Defense 10.473%                   | 
+ | Taunt  6.366%                          | 
+ | Power Trip  4.517%                     | 
+ | Agility  3.776%                        | 
+ | Other 16.689%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Clefable +11.490%                      | 
+ | Toxapex +8.085%                        | 
+ | Blissey +5.043%                        | 
+ | Seismitoad +3.184%                     | 
+ | Hippowdon +2.696%                      | 
+ | Dragapult +2.398%                      | 
+ | Ditto +1.628%                          | 
+ | Quagsire +1.203%                       | 
+ | Urshifu +1.051%                        | 
+ | Gastrodon +0.962%                      | 
+ | Kyurem +0.813%                         | 
+ | Rhyperior +0.805%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Chandelure 84.803 (86.52±0.43)         |
+ |	 (24.7% KOed / 61.8% switched out)| 
+ | Marowak-Alola 83.679 (85.13±0.36)      |
+ |	 (34.7% KOed / 50.4% switched out)| 
+ | Charizard 80.556 (82.63±0.52)          |
+ |	 (32.2% KOed / 50.4% switched out)| 
+ | Necrozma 80.210 (82.94±0.68)           |
+ |	 (26.2% KOed / 56.7% switched out)| 
+ | Dracozolt 80.000 (82.43±0.61)          |
+ |	 (30.6% KOed / 51.8% switched out)| 
+ | Toxtricity 79.492 (81.14±0.41)         |
+ |	 (25.1% KOed / 56.0% switched out)| 
+ | Salazzle 77.066 (79.89±0.71)           |
+ |	 (19.1% KOed / 60.8% switched out)| 
+ | Raichu-Alola 77.036 (81.75±1.18)       |
+ |	 (36.7% KOed / 45.1% switched out)| 
+ | Dubwool 73.228 (81.90±2.17)            |
+ |	 (22.2% KOed / 59.7% switched out)| 
+ | Sigilyph 71.507 (78.16±1.66)           |
+ |	 (18.6% KOed / 59.5% switched out)| 
+ | Cinderace 71.502 (73.68±0.55)          |
+ |	 (27.4% KOed / 46.3% switched out)| 
+ | Ninetales 71.152 (75.70±1.14)          |
+ |	 (23.0% KOed / 52.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Ferrothorn                             | 
+ +----------------------------------------+ 
+ | Raw count: 494128                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Iron Barbs 99.591%                     | 
+ | Anticipation  0.409%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 55.624%                      | 
+ | Rocky Helmet 36.746%                   | 
+ | Chople Berry  2.884%                   | 
+ | Other  4.746%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:252/0/252/0/4/0 15.733%         | 
+ | Impish:252/4/252/0/0/0  8.353%         | 
+ | Relaxed:248/8/252/0/0/0  6.814%        | 
+ | Relaxed:252/4/252/0/0/0  6.614%        | 
+ | Impish:248/8/252/0/0/0  6.488%         | 
+ | Relaxed:252/0/252/0/4/0  5.018%        | 
+ | Other 50.980%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Leech Seed 82.612%                     | 
+ | Stealth Rock 54.492%                   | 
+ | Knock Off 47.892%                      | 
+ | Gyro Ball 39.637%                      | 
+ | Spikes 39.224%                         | 
+ | Body Press 38.364%                     | 
+ | Power Whip 27.009%                     | 
+ | Protect 20.864%                        | 
+ | Thunder Wave 15.410%                   | 
+ | Toxic 11.048%                          | 
+ | Iron Head  4.294%                      | 
+ | Other 19.154%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Pelipper +11.468%                      | 
+ | Kingdra +7.785%                        | 
+ | Urshifu-Rapid-Strike +4.348%           | 
+ | Rotom-Heat +2.860%                     | 
+ | Barraskewda +2.365%                    | 
+ | Seismitoad +1.497%                     | 
+ | Toxapex +1.325%                        | 
+ | Diggersby +1.007%                      | 
+ | Chansey +0.955%                        | 
+ | Zoroark +0.901%                        | 
+ | Comfey +0.610%                         | 
+ | Clefable +0.537%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Marowak-Alola 88.718 (89.76±0.26)      |
+ |	 (27.1% KOed / 62.7% switched out)| 
+ | Volcarona 88.063 (88.65±0.15)          |
+ |	 (23.0% KOed / 65.6% switched out)| 
+ | Salazzle 86.594 (88.44±0.46)           |
+ |	 (18.0% KOed / 70.5% switched out)| 
+ | Chandelure 86.273 (87.71±0.36)         |
+ |	 (20.0% KOed / 67.7% switched out)| 
+ | Charizard 85.868 (87.54±0.42)          |
+ |	 (27.0% KOed / 60.5% switched out)| 
+ | Centiskorch 84.659 (87.79±0.78)        |
+ |	 (18.9% KOed / 68.9% switched out)| 
+ | Turtonator 83.336 (88.51±1.29)         |
+ |	 (16.9% KOed / 71.6% switched out)| 
+ | Conkeldurr 83.099 (84.74±0.41)         |
+ |	 (33.7% KOed / 51.1% switched out)| 
+ | Necrozma 82.549 (85.06±0.63)           |
+ |	 (43.9% KOed / 41.1% switched out)| 
+ | Sigilyph 82.281 (87.15±1.22)           |
+ |	 (26.4% KOed / 60.8% switched out)| 
+ | Coalossal 81.965 (85.75±0.95)          |
+ |	 (17.9% KOed / 67.8% switched out)| 
+ | Silvally-Fire 79.838 (91.76±2.98)      |
+ |	 (27.1% KOed / 64.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Togekiss                               | 
+ +----------------------------------------+ 
+ | Raw count: 472743                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 89                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Serene Grace 91.889%                   | 
+ | Super Luck  5.885%                     | 
+ | Hustle  2.226%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 32.273%                   | 
+ | Heavy-Duty Boots 29.062%               | 
+ | Leftovers 20.629%                      | 
+ | Scope Lens  2.064%                     | 
+ | Assault Vest  1.821%                   | 
+ | King's Rock  1.681%                    | 
+ | Life Orb  1.573%                       | 
+ | Choice Specs  1.549%                   | 
+ | Weakness Policy  1.466%                | 
+ | Salac Berry  1.367%                    | 
+ | Aguav Berry  0.680%                    | 
+ | Expert Belt  0.628%                    | 
+ | Rocky Helmet  0.610%                   | 
+ | Other  4.596%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 37.751%          | 
+ | Timid:252/0/120/0/0/136  5.804%        | 
+ | Modest:252/0/0/252/4/0  5.067%         | 
+ | Timid:4/0/0/252/0/252  4.912%          | 
+ | Timid:0/0/4/252/0/252  3.274%          | 
+ | Calm:252/0/0/4/252/0  2.708%           | 
+ | Other 40.484%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Air Slash 97.047%                      | 
+ | Dazzling Gleam 48.033%                 | 
+ | Flamethrower 41.732%                   | 
+ | Roost 36.372%                          | 
+ | Nasty Plot 33.243%                     | 
+ | Trick 25.313%                          | 
+ | Defog 22.629%                          | 
+ | Thunder Wave 22.379%                   | 
+ | Heal Bell 10.120%                      | 
+ | Substitute 10.034%                     | 
+ | Aura Sphere  9.247%                    | 
+ | Ancient Power  8.033%                  | 
+ | Fire Blast  6.807%                     | 
+ | Psychic  2.593%                        | 
+ | Wish  2.334%                           | 
+ | Draining Kiss  2.286%                  | 
+ | Heat Wave  2.082%                      | 
+ | Other 19.716%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Scizor +5.127%                         | 
+ | Crawdaunt +4.894%                      | 
+ | Necrozma +4.107%                       | 
+ | Zeraora +3.461%                        | 
+ | Urshifu +1.901%                        | 
+ | Excadrill +1.749%                      | 
+ | Mamoswine +1.589%                      | 
+ | Rillaboom +1.469%                      | 
+ | Jirachi +0.875%                        | 
+ | Mew +0.858%                            | 
+ | Exploud +0.707%                        | 
+ | Cloyster +0.648%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Lycanroc-Dusk 77.970 (80.73±0.69)      |
+ |	 (27.6% KOed / 53.2% switched out)| 
+ | Raichu-Alola 73.106 (78.37±1.32)       |
+ |	 (33.5% KOed / 44.9% switched out)| 
+ | Excadrill 72.960 (73.80±0.21)          |
+ |	 (24.1% KOed / 49.7% switched out)| 
+ | Lycanroc-Midnight 72.737 (82.95±2.55)  |
+ |	 (31.3% KOed / 51.6% switched out)| 
+ | Toxtricity 71.742 (73.67±0.48)         |
+ |	 (26.4% KOed / 47.3% switched out)| 
+ | Lycanroc 70.222 (79.79±2.39)           |
+ |	 (27.7% KOed / 52.1% switched out)| 
+ | Zeraora 69.957 (70.73±0.19)            |
+ |	 (22.0% KOed / 48.7% switched out)| 
+ | Rhyperior 69.846 (72.30±0.61)          |
+ |	 (21.1% KOed / 51.2% switched out)| 
+ | Boltund 69.701 (78.68±2.24)            |
+ |	 (25.2% KOed / 53.5% switched out)| 
+ | Gengar 69.563 (71.31±0.44)             |
+ |	 (33.8% KOed / 37.5% switched out)| 
+ | Kyurem 68.485 (70.50±0.50)             |
+ |	 (35.8% KOed / 34.7% switched out)| 
+ | Copperajah 68.091 (75.46±1.84)         |
+ |	 (33.9% KOed / 41.6% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom-Heat                             | 
+ +----------------------------------------+ 
+ | Raw count: 361083                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Heavy-Duty Boots 62.241%               | 
+ | Choice Scarf 16.204%                   | 
+ | Leftovers  7.866%                      | 
+ | Choice Specs  5.190%                   | 
+ | Life Orb  1.741%                       | 
+ | Assault Vest  0.772%                   | 
+ | Focus Sash  0.756%                     | 
+ | Iapapa Berry  0.571%                   | 
+ | Other  4.659%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 31.125%          | 
+ | Timid:248/0/0/8/0/252  8.888%          | 
+ | Calm:248/0/0/0/92/168  4.418%          | 
+ | Timid:252/0/0/4/0/252  4.368%          | 
+ | Calm:248/0/0/0/84/176  3.794%          | 
+ | Timid:4/0/0/252/0/252  3.035%          | 
+ | Other 44.372%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Overheat 97.278%                       | 
+ | Volt Switch 78.235%                    | 
+ | Pain Split 35.417%                     | 
+ | Nasty Plot 35.219%                     | 
+ | Defog 31.058%                          | 
+ | Toxic 23.280%                          | 
+ | Discharge 21.203%                      | 
+ | Will-O-Wisp 19.310%                    | 
+ | Trick 18.321%                          | 
+ | Thunderbolt 16.400%                    | 
+ | Thunder Wave  5.864%                   | 
+ | Other 18.415%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Clefable +6.278%                       | 
+ | Dragapult +5.534%                      | 
+ | Ferrothorn +3.925%                     | 
+ | Hippowdon +3.201%                      | 
+ | Diggersby +1.572%                      | 
+ | Slowbro +1.508%                        | 
+ | Urshifu +1.013%                        | 
+ | Amoonguss +0.938%                      | 
+ | Primarina +0.908%                      | 
+ | Toxapex +0.642%                        | 
+ | Zarude +0.508%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Haxorus 87.719 (89.99±0.57)            |
+ |	 (43.5% KOed / 46.4% switched out)| 
+ | Lycanroc-Dusk 86.433 (88.93±0.62)      |
+ |	 (24.8% KOed / 64.1% switched out)| 
+ | Terrakion 85.762 (88.58±0.70)          |
+ |	 (28.7% KOed / 59.9% switched out)| 
+ | Tyranitar 83.676 (85.22±0.39)          |
+ |	 (15.4% KOed / 69.8% switched out)| 
+ | Lycanroc 81.583 (89.81±2.06)           |
+ |	 (28.7% KOed / 61.1% switched out)| 
+ | Seismitoad 80.155 (81.99±0.46)         |
+ |	 (13.3% KOed / 68.7% switched out)| 
+ | Rhyperior 80.043 (82.06±0.50)          |
+ |	 (15.5% KOed / 66.5% switched out)| 
+ | Goodra 78.779 (81.77±0.75)             |
+ |	 (16.8% KOed / 65.0% switched out)| 
+ | Polteageist 78.577 (84.09±1.38)        |
+ |	 (48.7% KOed / 35.4% switched out)| 
+ | Gastrodon 78.129 (80.36±0.56)          |
+ |	 (8.0% KOed / 72.4% switched out) | 
+ | Lycanroc-Midnight 76.896 (87.01±2.53)  |
+ |	 (31.6% KOed / 55.4% switched out)| 
+ | Kommo-o 76.810 (78.43±0.40)            |
+ |	 (17.9% KOed / 60.5% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Hippowdon                              | 
+ +----------------------------------------+ 
+ | Raw count: 347132                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Stream 96.986%                    | 
+ | Sand Force  3.014%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Rocky Helmet 47.214%                   | 
+ | Leftovers 38.279%                      | 
+ | Smooth Rock 10.116%                    | 
+ | Other  4.391%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:252/4/252/0/0/0 31.922%         | 
+ | Impish:252/0/252/0/4/0 16.341%         | 
+ | Impish:252/8/248/0/0/0 12.630%         | 
+ | Careful:252/0/4/0/252/0  4.253%        | 
+ | Impish:252/0/232/0/24/0  1.968%        | 
+ | Impish:252/0/40/0/216/0  1.778%        | 
+ | Other 31.109%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 93.035%                     | 
+ | Slack Off 92.654%                      | 
+ | Stealth Rock 89.483%                   | 
+ | Toxic 48.238%                          | 
+ | Whirlwind 33.752%                      | 
+ | Rock Slide  8.409%                     | 
+ | Yawn  5.562%                           | 
+ | Roar  4.474%                           | 
+ | Stone Edge  3.523%                     | 
+ | Body Press  3.428%                     | 
+ | Other 17.442%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Toxapex +11.489%                       | 
+ | Excadrill +11.147%                     | 
+ | Mandibuzz +9.944%                      | 
+ | Clefable +9.259%                       | 
+ | Dragapult +6.527%                      | 
+ | Corviknight +4.043%                    | 
+ | Rotom-Heat +3.470%                     | 
+ | Magnezone +2.418%                      | 
+ | Magearna +2.203%                       | 
+ | Urshifu +1.763%                        | 
+ | Cinderace +1.747%                      | 
+ | Blissey +1.101%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Kyurem 88.406 (89.81±0.35)             |
+ |	 (30.2% KOed / 59.6% switched out)| 
+ | Exeggutor 87.573 (94.77±1.80)          |
+ |	 (21.6% KOed / 73.2% switched out)| 
+ | Lurantis 86.880 (93.04±1.54)           |
+ |	 (22.0% KOed / 71.1% switched out)| 
+ | Vileplume 86.681 (91.87±1.30)          |
+ |	 (12.2% KOed / 79.7% switched out)| 
+ | Inteleon 86.370 (89.71±0.84)           |
+ |	 (25.7% KOed / 64.0% switched out)| 
+ | Primarina 85.806 (87.41±0.40)          |
+ |	 (23.5% KOed / 64.0% switched out)| 
+ | Cloyster 84.681 (87.23±0.64)           |
+ |	 (43.6% KOed / 43.6% switched out)| 
+ | Venusaur 84.597 (85.83±0.31)           |
+ |	 (20.9% KOed / 64.9% switched out)| 
+ | Lilligant 83.926 (92.75±2.21)          |
+ |	 (21.7% KOed / 71.0% switched out)| 
+ | Milotic 83.882 (87.60±0.93)            |
+ |	 (14.5% KOed / 73.1% switched out)| 
+ | Blastoise 83.795 (88.27±1.12)          |
+ |	 (23.6% KOed / 64.7% switched out)| 
+ | Clawitzer 83.638 (89.50±1.46)          |
+ |	 (22.8% KOed / 66.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Magnezone                              | 
+ +----------------------------------------+ 
+ | Raw count: 325324                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Magnet Pull 58.300%                    | 
+ | Analytic 35.530%                       | 
+ | Sturdy  6.171%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 55.260%                   | 
+ | Leftovers 14.125%                      | 
+ | Assault Vest  7.457%                   | 
+ | Air Balloon  6.945%                    | 
+ | Choice Scarf  4.701%                   | 
+ | Life Orb  1.765%                       | 
+ | Expert Belt  1.475%                    | 
+ | Chople Berry  1.165%                   | 
+ | Rocky Helmet  1.133%                   | 
+ | Magnet  0.979%                         | 
+ | Other  4.994%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:0/0/4/252/0/252 14.214%         | 
+ | Modest:0/0/0/252/4/252 10.395%         | 
+ | Modest:248/0/0/252/8/0 10.046%         | 
+ | Bold:0/0/252/116/0/140  3.967%         | 
+ | Modest:0/0/0/252/0/252  3.655%         | 
+ | Timid:0/0/0/252/4/252  3.570%          | 
+ | Other 54.152%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flash Cannon 86.271%                   | 
+ | Thunderbolt 76.664%                    | 
+ | Volt Switch 76.569%                    | 
+ | Body Press 37.918%                     | 
+ | Steel Beam 25.475%                     | 
+ | Iron Defense 16.588%                   | 
+ | Toxic 13.772%                          | 
+ | Discharge 11.843%                      | 
+ | Tri Attack 10.192%                     | 
+ | Substitute  9.207%                     | 
+ | Thunder  7.456%                        | 
+ | Teleport  6.875%                       | 
+ | Thunder Wave  5.371%                   | 
+ | Other 15.799%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rillaboom +8.892%                      | 
+ | Mandibuzz +4.015%                      | 
+ | Zarude +3.284%                         | 
+ | Urshifu-Rapid-Strike +2.858%           | 
+ | Hippowdon +2.564%                      | 
+ | Skarmory +1.837%                       | 
+ | Clefable +1.707%                       | 
+ | Dragapult +1.681%                      | 
+ | Scolipede +1.481%                      | 
+ | Gastrodon +1.241%                      | 
+ | Amoonguss +1.227%                      | 
+ | Terrakion +1.202%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Volcarona 87.925 (88.86±0.23)          |
+ |	 (36.9% KOed / 52.0% switched out)| 
+ | Excadrill 85.810 (86.57±0.19)          |
+ |	 (18.3% KOed / 68.3% switched out)| 
+ | Seismitoad 82.337 (84.28±0.49)         |
+ |	 (17.6% KOed / 66.7% switched out)| 
+ | Chandelure 81.985 (84.50±0.63)         |
+ |	 (31.8% KOed / 52.7% switched out)| 
+ | Heracross 78.088 (83.25±1.29)          |
+ |	 (40.2% KOed / 43.1% switched out)| 
+ | Gastrodon 77.212 (79.91±0.68)          |
+ |	 (12.6% KOed / 67.3% switched out)| 
+ | Whiscash 76.961 (92.86±3.97)           |
+ |	 (31.0% KOed / 61.9% switched out)| 
+ | Lucario 76.902 (81.59±1.17)            |
+ |	 (39.8% KOed / 41.8% switched out)| 
+ | Marowak-Alola 76.704 (78.65±0.49)      |
+ |	 (25.6% KOed / 53.1% switched out)| 
+ | Salazzle 76.673 (80.59±0.98)           |
+ |	 (28.3% KOed / 52.3% switched out)| 
+ | Hitmonlee 76.014 (85.23±2.30)          |
+ |	 (43.9% KOed / 41.4% switched out)| 
+ | Kommo-o 75.657 (77.63±0.49)            |
+ |	 (26.2% KOed / 51.5% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Azumarill                              | 
+ +----------------------------------------+ 
+ | Raw count: 319260                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 89                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Huge Power 85.885%                     | 
+ | Sap Sipper 12.404%                     | 
+ | Thick Fat  1.711%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Sitrus Berry 59.482%                   | 
+ | Choice Band 13.795%                    | 
+ | Leftovers 11.345%                      | 
+ | Assault Vest  4.052%                   | 
+ | Aguav Berry  2.876%                    | 
+ | Life Orb  1.906%                       | 
+ | Chesto Berry  1.075%                   | 
+ | Figy Berry  0.688%                     | 
+ | Other  4.780%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:4/252/0/0/0/252 24.482%        | 
+ | Adamant:252/252/0/0/4/0 23.946%        | 
+ | Adamant:252/252/0/0/0/4  4.095%        | 
+ | Adamant:0/252/0/0/4/252  3.644%        | 
+ | Calm:252/0/0/4/252/0  2.676%           | 
+ | Adamant:36/252/0/0/0/220  2.613%       | 
+ | Other 38.545%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Aqua Jet 87.790%                       | 
+ | Play Rough 84.454%                     | 
+ | Belly Drum 67.686%                     | 
+ | Knock Off 64.673%                      | 
+ | Liquidation 18.180%                    | 
+ | Whirlpool  8.617%                      | 
+ | Protect  8.579%                        | 
+ | Perish Song  8.415%                    | 
+ | Superpower  8.267%                     | 
+ | Ice Punch  6.728%                      | 
+ | Rest  4.671%                           | 
+ | Waterfall  4.452%                      | 
+ | Toxic  4.322%                          | 
+ | Brick Break  2.564%                    | 
+ | Substitute  2.491%                     | 
+ | Other 18.109%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Volcarona +11.580%                     | 
+ | Mew +4.792%                            | 
+ | Rillaboom +2.635%                      | 
+ | Urshifu +2.123%                        | 
+ | Hawlucha +1.964%                       | 
+ | Hydreigon +1.744%                      | 
+ | Accelgor +1.736%                       | 
+ | Bisharp +1.625%                        | 
+ | Ninetales-Alola +1.612%                | 
+ | Scizor +1.550%                         | 
+ | Scolipede +1.174%                      | 
+ | Kommo-o +1.099%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Venusaur 82.339 (83.92±0.39)           |
+ |	 (43.4% KOed / 40.5% switched out)| 
+ | Toxicroak 78.609 (83.62±1.25)          |
+ |	 (44.3% KOed / 39.3% switched out)| 
+ | Dracozolt 70.908 (74.53±0.91)          |
+ |	 (42.2% KOed / 32.3% switched out)| 
+ | Rillaboom 70.136 (71.08±0.24)          |
+ |	 (32.6% KOed / 38.5% switched out)| 
+ | Weezing-Galar 69.151 (72.38±0.81)      |
+ |	 (30.8% KOed / 41.6% switched out)| 
+ | Roserade 67.463 (74.05±1.65)           |
+ |	 (29.2% KOed / 44.9% switched out)| 
+ | Dubwool 65.564 (77.90±3.08)            |
+ |	 (37.6% KOed / 40.3% switched out)| 
+ | Tsareena 64.185 (71.68±1.87)           |
+ |	 (33.0% KOed / 38.7% switched out)| 
+ | Leafeon 64.081 (74.81±2.68)            |
+ |	 (38.5% KOed / 36.3% switched out)| 
+ | Kyurem 63.980 (66.59±0.65)             |
+ |	 (46.6% KOed / 20.0% switched out)| 
+ | Quagsire 60.024 (64.99±1.24)           |
+ |	 (21.8% KOed / 43.1% switched out)| 
+ | Celebi 58.866 (67.19±2.08)             |
+ |	 (37.3% KOed / 29.9% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Scizor                                 | 
+ +----------------------------------------+ 
+ | Raw count: 314178                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Technician 95.760%                     | 
+ | Swarm  3.403%                          | 
+ | Light Metal  0.837%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 29.548%                       | 
+ | Choice Band 28.714%                    | 
+ | Leftovers 22.971%                      | 
+ | Focus Sash  2.880%                     | 
+ | Rocky Helmet  1.902%                   | 
+ | Assault Vest  1.886%                   | 
+ | Metal Coat  1.850%                     | 
+ | Expert Belt  1.349%                    | 
+ | Occa Berry  1.278%                     | 
+ | Heavy-Duty Boots  1.182%               | 
+ | Lum Berry  1.135%                      | 
+ | Nothing  0.965%                        | 
+ | Other  4.341%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:248/252/0/0/8/0 24.332%        | 
+ | Adamant:40/252/0/0/0/216  7.761%       | 
+ | Adamant:252/252/0/0/4/0  5.832%        | 
+ | Careful:248/0/8/0/252/0  4.661%        | 
+ | Adamant:0/252/4/0/0/252  4.122%        | 
+ | Adamant:0/252/0/0/4/252  2.893%        | 
+ | Other 50.399%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Bullet Punch 97.539%                   | 
+ | Knock Off 57.653%                      | 
+ | U-turn 55.879%                         | 
+ | Swords Dance 50.370%                   | 
+ | Roost 29.490%                          | 
+ | Superpower 22.785%                     | 
+ | Dual Wingbeat 18.956%                  | 
+ | Bug Bite 13.094%                       | 
+ | Quick Attack  8.834%                   | 
+ | Defog  8.498%                          | 
+ | Aerial Ace  5.619%                     | 
+ | X-Scissor  5.304%                      | 
+ | Sand Tomb  4.105%                      | 
+ | Psycho Cut  3.664%                     | 
+ | Other 18.212%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Togekiss +7.682%                       | 
+ | Necrozma +6.507%                       | 
+ | Zeraora +6.237%                        | 
+ | Crawdaunt +5.406%                      | 
+ | Kingdra +3.542%                        | 
+ | Pelipper +3.158%                       | 
+ | Mew +1.556%                            | 
+ | Azumarill +1.547%                      | 
+ | Barraskewda +0.776%                    | 
+ | Rotom-Wash +0.663%                     | 
+ | Hydreigon +0.630%                      | 
+ | Toxtricity +0.607%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Dubwool 77.178 (86.60±2.36)            |
+ |	 (33.5% KOed / 53.1% switched out)| 
+ | Quagsire 74.661 (78.92±1.07)           |
+ |	 (10.5% KOed / 68.4% switched out)| 
+ | Chandelure 74.385 (77.27±0.72)         |
+ |	 (30.4% KOed / 46.8% switched out)| 
+ | Torkoal 73.738 (75.86±0.53)            |
+ |	 (20.6% KOed / 55.3% switched out)| 
+ | Volcarona 72.690 (73.83±0.28)          |
+ |	 (34.6% KOed / 39.2% switched out)| 
+ | Arcanine 72.650 (76.41±0.94)           |
+ |	 (20.2% KOed / 56.2% switched out)| 
+ | Centiskorch 71.503 (77.33±1.46)        |
+ |	 (24.6% KOed / 52.7% switched out)| 
+ | Rotom-Heat 70.926 (72.44±0.38)         |
+ |	 (24.0% KOed / 48.5% switched out)| 
+ | Charizard 70.182 (73.26±0.77)          |
+ |	 (32.9% KOed / 40.4% switched out)| 
+ | Coalossal 69.886 (77.15±1.82)          |
+ |	 (27.3% KOed / 49.8% switched out)| 
+ | Skarmory 69.520 (72.06±0.63)           |
+ |	 (12.2% KOed / 59.8% switched out)| 
+ | Salazzle 69.275 (73.54±1.07)           |
+ |	 (28.6% KOed / 44.9% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Hawlucha                               | 
+ +----------------------------------------+ 
+ | Raw count: 308409                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Unburden 93.856%                       | 
+ | Limber  3.451%                         | 
+ | Mold Breaker  2.693%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Grassy Seed 63.100%                    | 
+ | Power Herb 10.427%                     | 
+ | Psychic Seed  6.798%                   | 
+ | Electric Seed  3.638%                  | 
+ | Sitrus Berry  2.814%                   | 
+ | White Herb  2.576%                     | 
+ | Focus Sash  1.725%                     | 
+ | Nothing  1.037%                        | 
+ | Liechi Berry  0.824%                   | 
+ | Life Orb  0.706%                       | 
+ | Misty Seed  0.678%                     | 
+ | Leftovers  0.664%                      | 
+ | Aguav Berry  0.536%                    | 
+ | Other  4.476%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 52.621%        | 
+ | Adamant:0/252/4/0/0/252  6.687%        | 
+ | Adamant:4/252/0/0/0/252  5.170%        | 
+ | Jolly:0/252/0/0/4/252  5.013%          | 
+ | Adamant:44/224/0/0/116/124  3.842%     | 
+ | Adamant:0/252/0/0/0/252  1.986%        | 
+ | Other 24.682%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Acrobatics 92.653%                     | 
+ | Swords Dance 88.603%                   | 
+ | Close Combat 78.609%                   | 
+ | Taunt 30.336%                          | 
+ | Substitute 18.098%                     | 
+ | Drain Punch 10.661%                    | 
+ | Sky Attack 10.313%                     | 
+ | Roost 10.168%                          | 
+ | High Jump Kick  9.495%                 | 
+ | Poison Jab  6.883%                     | 
+ | Brave Bird  5.414%                     | 
+ | Thunder Punch  5.371%                  | 
+ | Iron Head  4.001%                      | 
+ | U-turn  2.956%                         | 
+ | Throat Chop  2.623%                    | 
+ | Defog  2.619%                          | 
+ | Fire Punch  2.490%                     | 
+ | Other 18.707%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rillaboom +39.260%                     | 
+ | Bisharp +5.072%                        | 
+ | Volcarona +4.554%                      | 
+ | Indeedee +4.387%                       | 
+ | Crawdaunt +3.805%                      | 
+ | Gengar +3.056%                         | 
+ | Mew +3.015%                            | 
+ | Pincurchin +2.568%                     | 
+ | Alakazam +2.441%                       | 
+ | Zeraora +2.273%                        | 
+ | Azumarill +2.060%                      | 
+ | Raichu-Alola +2.022%                   | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Comfey 78.985 (83.31±1.08)             |
+ |	 (59.5% KOed / 23.8% switched out)| 
+ | Doublade 77.624 (87.97±2.59)           |
+ |	 (58.9% KOed / 29.1% switched out)| 
+ | Aegislash 69.425 (72.37±0.74)          |
+ |	 (54.3% KOed / 18.1% switched out)| 
+ | Quagsire 67.246 (72.22±1.24)           |
+ |	 (35.1% KOed / 37.1% switched out)| 
+ | Clefable 66.723 (67.94±0.31)           |
+ |	 (51.7% KOed / 16.3% switched out)| 
+ | Slowbro-Galar 66.414 (71.69±1.32)      |
+ |	 (58.9% KOed / 12.8% switched out)| 
+ | Toxtricity 66.059 (69.33±0.82)         |
+ |	 (54.7% KOed / 14.6% switched out)| 
+ | Alakazam 61.439 (63.87±0.61)           |
+ |	 (52.2% KOed / 11.6% switched out)| 
+ | Necrozma 60.897 (66.17±1.32)           |
+ |	 (54.6% KOed / 11.6% switched out)| 
+ | Hatterene 60.485 (64.08±0.90)          |
+ |	 (48.6% KOed / 15.5% switched out)| 
+ | Raichu-Alola 59.991 (68.91±2.23)       |
+ |	 (49.9% KOed / 19.0% switched out)| 
+ | Azumarill 59.609 (61.80±0.55)          |
+ |	 (50.6% KOed / 11.2% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Crawdaunt                              | 
+ +----------------------------------------+ 
+ | Raw count: 297817                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Adaptability 97.414%                   | 
+ | Hyper Cutter  2.097%                   | 
+ | Shell Armor  0.490%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 63.019%                       | 
+ | Choice Band 22.217%                    | 
+ | Focus Sash  5.716%                     | 
+ | Mystic Water  1.582%                   | 
+ | Leftovers  1.270%                      | 
+ | Expert Belt  0.876%                    | 
+ | Choice Scarf  0.744%                   | 
+ | Other  4.577%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 25.831%        | 
+ | Adamant:0/252/4/0/0/252 22.789%        | 
+ | Adamant:252/252/0/0/4/0 13.751%        | 
+ | Adamant:4/252/0/0/0/252 11.336%        | 
+ | Jolly:0/252/0/0/4/252  3.294%          | 
+ | Jolly:4/252/0/0/0/252  2.524%          | 
+ | Other 20.476%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Aqua Jet 96.363%                       | 
+ | Knock Off 93.734%                      | 
+ | Crabhammer 85.972%                     | 
+ | Swords Dance 60.788%                   | 
+ | Close Combat 16.284%                   | 
+ | Crunch 11.929%                         | 
+ | Dragon Dance 10.160%                   | 
+ | Liquidation  8.443%                    | 
+ | Other 16.326%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rillaboom +11.019%                     | 
+ | Togekiss +7.759%                       | 
+ | Pelipper +7.044%                       | 
+ | Necrozma +6.542%                       | 
+ | Zeraora +6.056%                        | 
+ | Gengar +6.010%                         | 
+ | Kingdra +5.806%                        | 
+ | Scizor +5.717%                         | 
+ | Hawlucha +3.901%                       | 
+ | Seismitoad +3.449%                     | 
+ | Hatterene +3.248%                      | 
+ | Marowak-Alola +1.439%                  | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Kommo-o 83.247 (84.88±0.41)            |
+ |	 (35.6% KOed / 49.3% switched out)| 
+ | Comfey 81.123 (85.18±1.01)             |
+ |	 (45.6% KOed / 39.6% switched out)| 
+ | Toxicroak 80.657 (85.81±1.29)          |
+ |	 (34.8% KOed / 51.0% switched out)| 
+ | Poliwrath 76.935 (82.68±1.44)          |
+ |	 (45.0% KOed / 37.7% switched out)| 
+ | Bewear 76.399 (84.47±2.02)             |
+ |	 (38.8% KOed / 45.7% switched out)| 
+ | Keldeo 75.664 (79.67±1.00)             |
+ |	 (36.0% KOed / 43.6% switched out)| 
+ | Shiinotic 75.535 (80.31±1.19)          |
+ |	 (19.7% KOed / 60.6% switched out)| 
+ | Kyurem 71.893 (74.60±0.68)             |
+ |	 (44.7% KOed / 29.9% switched out)| 
+ | Venusaur 70.594 (72.78±0.55)           |
+ |	 (37.1% KOed / 35.7% switched out)| 
+ | Dracozolt 69.528 (73.77±1.06)          |
+ |	 (32.7% KOed / 41.0% switched out)| 
+ | Primarina 68.311 (71.15±0.71)          |
+ |	 (35.3% KOed / 35.9% switched out)| 
+ | Conkeldurr 67.788 (70.76±0.74)         |
+ |	 (34.4% KOed / 36.4% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Alakazam                               | 
+ +----------------------------------------+ 
+ | Raw count: 289830                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Magic Guard 91.106%                    | 
+ | Synchronize  7.574%                    | 
+ | Inner Focus  1.320%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 51.697%                     | 
+ | Life Orb 31.148%                       | 
+ | Choice Specs  5.957%                   | 
+ | Choice Scarf  2.916%                   | 
+ | Leftovers  2.199%                      | 
+ | Expert Belt  0.944%                    | 
+ | Twisted Spoon  0.703%                  | 
+ | Other  4.435%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 60.987%          | 
+ | Timid:0/0/28/228/0/252  7.095%         | 
+ | Timid:4/0/0/252/0/252  6.973%          | 
+ | Modest:0/0/0/252/4/252  3.873%         | 
+ | Timid:0/0/4/252/0/252  3.499%          | 
+ | Timid:0/0/0/252/0/252  2.400%          | 
+ | Other 15.174%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Psychic 65.446%                        | 
+ | Focus Blast 59.245%                    | 
+ | Dazzling Gleam 59.077%                 | 
+ | Nasty Plot 56.806%                     | 
+ | Shadow Ball 42.800%                    | 
+ | Psyshock 26.741%                       | 
+ | Energy Ball 18.643%                    | 
+ | Recover 13.362%                        | 
+ | Expanding Force 10.306%                | 
+ | Calm Mind  9.039%                      | 
+ | Counter  6.019%                        | 
+ | Encore  3.245%                         | 
+ | Taunt  2.450%                          | 
+ | Trick  2.089%                          | 
+ | Thunder Wave  2.032%                   | 
+ | Substitute  1.593%                     | 
+ | Knock Off  1.403%                      | 
+ | Other 19.706%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Indeedee +5.722%                       | 
+ | Hawlucha +2.437%                       | 
+ | Kommo-o +1.288%                        | 
+ | Accelgor +0.943%                       | 
+ | Terrakion +0.878%                      | 
+ | Indeedee-F +0.857%                     | 
+ | Gyarados +0.650%                       | 
+ | Azumarill +0.595%                      | 
+ | Bisharp +0.533%                        | 
+ | Weavile +0.501%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Weavile 73.426 (76.74±0.83)            |
+ |	 (43.4% KOed / 33.4% switched out)| 
+ | Mimikyu 69.834 (74.35±1.13)            |
+ |	 (46.2% KOed / 28.2% switched out)| 
+ | Aegislash 68.795 (71.72±0.73)          |
+ |	 (34.1% KOed / 37.7% switched out)| 
+ | Frosmoth 67.711 (77.70±2.50)           |
+ |	 (46.8% KOed / 30.9% switched out)| 
+ | Zeraora 64.314 (65.73±0.36)            |
+ |	 (38.1% KOed / 27.6% switched out)| 
+ | Scizor 63.670 (65.92±0.56)             |
+ |	 (33.8% KOed / 32.2% switched out)| 
+ | Rillaboom 63.138 (64.54±0.35)          |
+ |	 (36.2% KOed / 28.4% switched out)| 
+ | Dragapult 60.766 (62.04±0.32)          |
+ |	 (36.6% KOed / 25.5% switched out)| 
+ | Doublade 60.537 (73.51±3.24)           |
+ |	 (41.1% KOed / 32.4% switched out)| 
+ | Escavalier 59.741 (73.14±3.35)         |
+ |	 (42.3% KOed / 30.9% switched out)| 
+ | Bisharp 59.594 (63.20±0.90)            |
+ |	 (35.5% KOed / 27.7% switched out)| 
+ | Drapion 58.695 (67.38±2.17)            |
+ |	 (37.6% KOed / 29.8% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Hydreigon                              | 
+ +----------------------------------------+ 
+ | Raw count: 287026                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 36.946%                       | 
+ | Choice Scarf 31.991%                   | 
+ | Choice Specs  8.836%                   | 
+ | Leftovers  7.905%                      | 
+ | Wise Glasses  2.817%                   | 
+ | Assault Vest  1.942%                   | 
+ | Expert Belt  1.415%                    | 
+ | Focus Sash  1.232%                     | 
+ | Dragon Fang  0.667%                    | 
+ | Heavy-Duty Boots  0.584%               | 
+ | Black Glasses  0.494%                  | 
+ | Aguav Berry  0.481%                    | 
+ | Other  4.690%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 61.985%          | 
+ | Timid:4/0/0/252/0/252  7.001%          | 
+ | Modest:0/0/0/252/4/252  5.587%         | 
+ | Modest:4/0/0/252/0/252  3.079%         | 
+ | Timid:0/0/4/252/0/252  2.134%          | 
+ | Timid:0/0/0/252/0/252  1.709%          | 
+ | Other 18.507%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Draco Meteor 82.119%                   | 
+ | Dark Pulse 66.860%                     | 
+ | Flash Cannon 49.519%                   | 
+ | Flamethrower 41.083%                   | 
+ | Nasty Plot 39.818%                     | 
+ | U-turn 25.375%                         | 
+ | Fire Blast 17.950%                     | 
+ | Roost 15.127%                          | 
+ | Earth Power 12.214%                    | 
+ | Dragon Pulse  8.586%                   | 
+ | Defog  7.955%                          | 
+ | Dragon Dance  3.694%                   | 
+ | Substitute  3.113%                     | 
+ | Earthquake  2.815%                     | 
+ | Surf  2.304%                           | 
+ | Focus Blast  2.100%                    | 
+ | Other 19.368%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Slowbro +2.167%                        | 
+ | Aegislash +1.811%                      | 
+ | Azumarill +1.746%                      | 
+ | Excadrill +1.636%                      | 
+ | Urshifu-Rapid-Strike +1.530%           | 
+ | Marowak-Alola +1.375%                  | 
+ | Clefable +1.294%                       | 
+ | Keldeo +0.998%                         | 
+ | Hippowdon +0.923%                      | 
+ | Zarude +0.746%                         | 
+ | Corviknight +0.563%                    | 
+ | Jirachi +0.550%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Primarina 80.993 (83.10±0.53)          |
+ |	 (27.2% KOed / 55.9% switched out)| 
+ | Hawlucha 80.522 (82.49±0.49)           |
+ |	 (49.8% KOed / 32.7% switched out)| 
+ | Sylveon 78.943 (82.53±0.90)            |
+ |	 (26.4% KOed / 56.1% switched out)| 
+ | Comfey 78.689 (82.53±0.96)             |
+ |	 (28.1% KOed / 54.4% switched out)| 
+ | Azumarill 73.034 (74.82±0.45)          |
+ |	 (29.7% KOed / 45.2% switched out)| 
+ | Conkeldurr 71.709 (74.74±0.76)         |
+ |	 (29.9% KOed / 44.8% switched out)| 
+ | Weavile 71.419 (74.82±0.85)            |
+ |	 (32.5% KOed / 42.3% switched out)| 
+ | Hitmonlee 71.379 (80.97±2.40)          |
+ |	 (41.8% KOed / 39.2% switched out)| 
+ | Volcarona 71.129 (72.57±0.36)          |
+ |	 (40.0% KOed / 32.6% switched out)| 
+ | Poliwrath 69.529 (75.63±1.53)          |
+ |	 (36.0% KOed / 39.6% switched out)| 
+ | Chansey 69.506 (71.68±0.54)            |
+ |	 (9.7% KOed / 62.0% switched out) | 
+ | Terrakion 68.894 (73.50±1.15)          |
+ |	 (30.8% KOed / 42.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Amoonguss                              | 
+ +----------------------------------------+ 
+ | Raw count: 260013                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Regenerator 95.164%                    | 
+ | Effect Spore  4.836%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Black Sludge 44.818%                   | 
+ | Rocky Helmet 42.631%                   | 
+ | Leftovers  5.651%                      | 
+ | Assault Vest  1.373%                   | 
+ | Focus Sash  0.931%                     | 
+ | Other  4.594%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:248/0/172/0/88/0 10.856%          | 
+ | Bold:248/0/168/0/92/0  9.067%          | 
+ | Calm:252/0/0/4/252/0  7.953%           | 
+ | Bold:252/0/252/0/4/0  6.655%           | 
+ | Bold:248/0/252/0/8/0  5.391%           | 
+ | Bold:252/0/220/0/36/0  3.716%          | 
+ | Other 56.363%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Spore 93.798%                          | 
+ | Giga Drain 87.929%                     | 
+ | Sludge Bomb 75.300%                    | 
+ | Toxic 48.801%                          | 
+ | Clear Smog 28.470%                     | 
+ | Foul Play 22.700%                      | 
+ | Stun Spore 12.842%                     | 
+ | Synthesis  9.503%                      | 
+ | Protect  4.771%                        | 
+ | Other 15.885%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Mandibuzz +5.496%                      | 
+ | Excadrill +5.188%                      | 
+ | Slowbro +5.091%                        | 
+ | Urshifu +3.351%                        | 
+ | Poliwrath +2.766%                      | 
+ | Pelipper +2.739%                       | 
+ | Mantine +2.602%                        | 
+ | Kingdra +2.506%                        | 
+ | Clefable +2.336%                       | 
+ | Tyranitar +2.242%                      | 
+ | Magnezone +1.486%                      | 
+ | Skarmory +1.460%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Kyurem 85.444 (87.29±0.46)             |
+ |	 (23.2% KOed / 64.1% switched out)| 
+ | Hawlucha 83.762 (85.40±0.41)           |
+ |	 (37.7% KOed / 47.8% switched out)| 
+ | Volcarona 82.846 (83.92±0.27)          |
+ |	 (22.7% KOed / 61.2% switched out)| 
+ | Marowak-Alola 82.814 (84.77±0.49)      |
+ |	 (27.3% KOed / 57.5% switched out)| 
+ | Alakazam 82.607 (84.38±0.44)           |
+ |	 (26.5% KOed / 57.8% switched out)| 
+ | Charizard 81.917 (84.82±0.73)          |
+ |	 (32.9% KOed / 51.9% switched out)| 
+ | Chandelure 81.482 (84.12±0.66)         |
+ |	 (19.1% KOed / 65.0% switched out)| 
+ | Salazzle 81.138 (84.55±0.85)           |
+ |	 (9.6% KOed / 75.0% switched out) | 
+ | Espeon 78.692 (83.08±1.10)             |
+ |	 (16.2% KOed / 66.9% switched out)| 
+ | Ferrothorn 77.647 (78.91±0.32)         |
+ |	 (1.2% KOed / 77.7% switched out) | 
+ | Centiskorch 77.134 (83.07±1.48)        |
+ |	 (14.3% KOed / 68.8% switched out)| 
+ | Frosmoth 76.796 (85.90±2.28)           |
+ |	 (28.6% KOed / 57.3% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Blissey                                | 
+ +----------------------------------------+ 
+ | Raw count: 257643                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 91                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Natural Cure 93.961%                   | 
+ | Serene Grace  4.053%                   | 
+ | Healer  1.986%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Heavy-Duty Boots 68.494%               | 
+ | Leftovers 25.288%                      | 
+ | Rocky Helmet  0.786%                   | 
+ | Focus Sash  0.733%                     | 
+ | Other  4.700%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/4/0 36.270%           | 
+ | Bold:200/0/252/0/56/0 22.981%          | 
+ | Calm:252/0/4/0/252/0  4.432%           | 
+ | Relaxed:252/0/252/0/4/0  4.295%        | 
+ | Bold:252/0/252/4/0/0  2.356%           | 
+ | Bold:248/0/252/0/8/0  1.828%           | 
+ | Other 27.838%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Soft-Boiled 88.141%                    | 
+ | Seismic Toss 83.244%                   | 
+ | Toxic 63.687%                          | 
+ | Teleport 53.120%                       | 
+ | Stealth Rock 24.258%                   | 
+ | Thunder Wave 18.672%                   | 
+ | Aromatherapy 10.786%                   | 
+ | Wish 10.302%                           | 
+ | Heal Bell  8.082%                      | 
+ | Protect  6.988%                        | 
+ | Flamethrower  3.492%                   | 
+ | Calm Mind  2.871%                      | 
+ | Ice Beam  2.302%                       | 
+ | Counter  2.266%                        | 
+ | Tri Attack  1.800%                     | 
+ | Other 19.988%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Corviknight +9.879%                    | 
+ | Torkoal +8.229%                        | 
+ | Venusaur +8.020%                       | 
+ | Toxapex +7.533%                        | 
+ | Charizard +7.220%                      | 
+ | Ditto +6.675%                          | 
+ | Skarmory +6.429%                       | 
+ | Quagsire +3.175%                       | 
+ | Tangrowth +2.671%                      | 
+ | Clefable +2.414%                       | 
+ | Mandibuzz +1.925%                      | 
+ | Sableye +1.622%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Conkeldurr 91.235 (92.83±0.40)         |
+ |	 (16.6% KOed / 76.2% switched out)| 
+ | Hawlucha 90.621 (92.23±0.40)           |
+ |	 (37.1% KOed / 55.1% switched out)| 
+ | Crawdaunt 90.474 (91.68±0.30)          |
+ |	 (26.7% KOed / 65.0% switched out)| 
+ | Poliwrath 88.590 (92.42±0.96)          |
+ |	 (22.2% KOed / 70.2% switched out)| 
+ | Bisharp 87.097 (89.53±0.61)            |
+ |	 (22.4% KOed / 67.1% switched out)| 
+ | Pangoro 86.890 (93.96±1.77)            |
+ |	 (23.6% KOed / 70.3% switched out)| 
+ | Dubwool 86.602 (94.83±2.06)            |
+ |	 (44.8% KOed / 50.0% switched out)| 
+ | Marowak-Alola 86.461 (88.21±0.44)      |
+ |	 (28.7% KOed / 59.5% switched out)| 
+ | Terrakion 86.316 (89.55±0.81)          |
+ |	 (19.9% KOed / 69.7% switched out)| 
+ | Machamp 86.003 (91.88±1.47)            |
+ |	 (22.0% KOed / 69.9% switched out)| 
+ | Heracross 85.900 (89.94±1.01)          |
+ |	 (20.6% KOed / 69.4% switched out)| 
+ | Obstagoon 85.636 (89.57±0.98)          |
+ |	 (22.4% KOed / 67.1% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Pelipper                               | 
+ +----------------------------------------+ 
+ | Raw count: 254350                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 89                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Drizzle 99.138%                        | 
+ | Keen Eye  0.475%                       | 
+ | Rain Dish  0.387%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Damp Rock 71.027%                      | 
+ | Choice Specs  9.551%                   | 
+ | Heavy-Duty Boots  9.289%               | 
+ | Leftovers  3.654%                      | 
+ | Choice Scarf  2.643%                   | 
+ | Other  3.837%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:248/0/252/0/8/0 20.491%           | 
+ | Bold:248/0/252/8/0/0 13.659%           | 
+ | Relaxed:248/0/252/0/8/0 10.253%        | 
+ | Bold:252/0/252/0/4/0  6.206%           | 
+ | Modest:248/0/0/252/8/0  5.347%         | 
+ | Modest:0/0/0/252/4/252  3.444%         | 
+ | Other 40.600%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | U-turn 77.267%                         | 
+ | Roost 71.726%                          | 
+ | Hurricane 66.348%                      | 
+ | Scald 66.131%                          | 
+ | Defog 60.337%                          | 
+ | Weather Ball 13.845%                   | 
+ | Hydro Pump  8.597%                     | 
+ | Knock Off  7.039%                      | 
+ | Surf  6.922%                           | 
+ | Ice Beam  6.272%                       | 
+ | Other 15.516%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Kingdra +51.631%                       | 
+ | Ferrothorn +22.395%                    | 
+ | Urshifu-Rapid-Strike +15.266%          | 
+ | Seismitoad +14.941%                    | 
+ | Barraskewda +12.866%                   | 
+ | Crawdaunt +8.234%                      | 
+ | Poliwrath +6.446%                      | 
+ | Scizor +3.901%                         | 
+ | Amoonguss +2.806%                      | 
+ | Ludicolo +2.031%                       | 
+ | Toxicroak +1.671%                      | 
+ | Heliolisk +1.349%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Porygon-Z 90.491 (93.07±0.65)          |
+ |	 (37.3% KOed / 55.8% switched out)| 
+ | Kyurem 89.914 (91.46±0.39)             |
+ |	 (34.1% KOed / 57.4% switched out)| 
+ | Necrozma 89.607 (92.07±0.62)           |
+ |	 (38.8% KOed / 53.2% switched out)| 
+ | Lapras 86.644 (92.20±1.39)             |
+ |	 (27.4% KOed / 64.8% switched out)| 
+ | Dracozolt 84.757 (87.31±0.64)          |
+ |	 (22.1% KOed / 65.2% switched out)| 
+ | Goodra 84.588 (87.66±0.77)             |
+ |	 (37.5% KOed / 50.1% switched out)| 
+ | Gengar 83.774 (85.60±0.46)             |
+ |	 (39.5% KOed / 46.1% switched out)| 
+ | Polteageist 83.426 (88.60±1.29)        |
+ |	 (50.6% KOed / 38.0% switched out)| 
+ | Alakazam 83.275 (85.21±0.48)           |
+ |	 (42.3% KOed / 42.9% switched out)| 
+ | Raichu-Alola 83.180 (88.20±1.25)       |
+ |	 (34.3% KOed / 53.9% switched out)| 
+ | Glaceon 83.021 (92.56±2.39)            |
+ |	 (37.2% KOed / 55.4% switched out)| 
+ | Togekiss 82.758 (84.04±0.32)           |
+ |	 (28.3% KOed / 55.7% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Kommo-o                                | 
+ +----------------------------------------+ 
+ | Raw count: 251509                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 89                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Bulletproof 78.469%                    | 
+ | Overcoat 11.919%                       | 
+ | Soundproof  9.612%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 43.291%                      | 
+ | Salac Berry 11.948%                    | 
+ | Rocky Helmet 10.747%                   | 
+ | Throat Spray 10.063%                   | 
+ | Life Orb  7.721%                       | 
+ | Focus Sash  2.053%                     | 
+ | Sitrus Berry  1.995%                   | 
+ | Lum Berry  1.604%                      | 
+ | Assault Vest  1.192%                   | 
+ | Aguav Berry  1.158%                    | 
+ | Expert Belt  1.076%                    | 
+ | Choice Scarf  0.657%                   | 
+ | Iapapa Berry  0.606%                   | 
+ | Roseli Berry  0.516%                   | 
+ | Weakness Policy  0.513%                | 
+ | Other  4.862%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:4/252/0/0/0/252  9.374%          | 
+ | Timid:0/0/0/252/4/252  7.292%          | 
+ | Jolly:0/252/0/0/4/252  6.401%          | 
+ | Impish:252/0/200/0/0/56  5.649%        | 
+ | Impish:252/0/148/0/40/68  5.172%       | 
+ | Impish:252/0/188/0/0/68  4.220%        | 
+ | Other 61.891%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Stealth Rock 47.256%                   | 
+ | Body Press 45.493%                     | 
+ | Earthquake 38.153%                     | 
+ | Drain Punch 28.079%                    | 
+ | Toxic 22.400%                          | 
+ | Clangorous Soul 19.914%                | 
+ | Clanging Scales 19.573%                | 
+ | Flamethrower 15.698%                   | 
+ | Taunt 15.360%                          | 
+ | Substitute 15.221%                     | 
+ | Belly Drum 13.980%                     | 
+ | Iron Defense 13.611%                   | 
+ | Flash Cannon 10.765%                   | 
+ | Close Combat 10.459%                   | 
+ | Poison Jab 10.443%                     | 
+ | Dragon Dance  8.783%                   | 
+ | Dragon Claw  7.632%                    | 
+ | Iron Head  6.311%                      | 
+ | Thunder Punch  5.774%                  | 
+ | Dragon Tail  5.690%                    | 
+ | Aura Sphere  5.653%                    | 
+ | Boomburst  3.512%                      | 
+ | Draco Meteor  3.112%                   | 
+ | Outrage  2.698%                        | 
+ | Rock Slide  2.559%                     | 
+ | Scale Shot  2.403%                     | 
+ | Other 19.467%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Aegislash +4.363%                      | 
+ | Mantine +1.908%                        | 
+ | Jirachi +1.783%                        | 
+ | Alakazam +1.620%                       | 
+ | Magnezone +1.464%                      | 
+ | Azumarill +1.406%                      | 
+ | Mew +1.359%                            | 
+ | Zeraora +1.020%                        | 
+ | Magearna +0.878%                       | 
+ | Primarina +0.815%                      | 
+ | Keldeo +0.814%                         | 
+ | Kyurem +0.532%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Alakazam 82.909 (84.72±0.45)           |
+ |	 (41.1% KOed / 43.6% switched out)| 
+ | Comfey 80.824 (84.52±0.92)             |
+ |	 (28.4% KOed / 56.1% switched out)| 
+ | Mimikyu 79.782 (83.82±1.01)            |
+ |	 (43.5% KOed / 40.3% switched out)| 
+ | Togekiss 78.117 (79.34±0.31)           |
+ |	 (23.7% KOed / 55.7% switched out)| 
+ | Hawlucha 77.080 (79.24±0.54)           |
+ |	 (52.5% KOed / 26.7% switched out)| 
+ | Hatterene 76.742 (79.00±0.56)          |
+ |	 (21.5% KOed / 57.5% switched out)| 
+ | Necrozma 75.817 (79.71±0.97)           |
+ |	 (29.3% KOed / 50.4% switched out)| 
+ | Ribombee 75.478 (82.38±1.72)           |
+ |	 (35.7% KOed / 46.7% switched out)| 
+ | Primarina 75.124 (77.32±0.55)          |
+ |	 (26.2% KOed / 51.1% switched out)| 
+ | Kyurem 74.755 (77.52±0.69)             |
+ |	 (36.2% KOed / 41.3% switched out)| 
+ | Espeon 74.296 (79.88±1.40)             |
+ |	 (28.5% KOed / 51.4% switched out)| 
+ | Clefable 73.687 (74.59±0.23)           |
+ |	 (23.2% KOed / 51.4% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Urshifu-Rapid-Strike                   | 
+ +----------------------------------------+ 
+ | Raw count: 253279                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Unseen Fist 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 50.764%                    | 
+ | Choice Scarf 18.369%                   | 
+ | Life Orb 10.735%                       | 
+ | Leftovers  4.243%                      | 
+ | Expert Belt  3.045%                    | 
+ | Assault Vest  2.868%                   | 
+ | Mystic Water  1.752%                   | 
+ | Focus Sash  1.327%                     | 
+ | Protective Pads  0.868%                | 
+ | King's Rock  0.601%                    | 
+ | Heavy-Duty Boots  0.544%               | 
+ | Other  4.883%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 44.834%          | 
+ | Adamant:0/252/4/0/0/252 13.448%        | 
+ | Adamant:0/252/0/0/4/252 12.517%        | 
+ | Jolly:4/252/0/0/0/252  6.069%          | 
+ | Jolly:0/252/4/0/0/252  5.862%          | 
+ | Adamant:4/252/0/0/0/252  3.393%        | 
+ | Other 13.876%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Surging Strikes 95.258%                | 
+ | Close Combat 82.288%                   | 
+ | Aqua Jet 59.750%                       | 
+ | U-turn 48.522%                         | 
+ | Zen Headbutt 21.582%                   | 
+ | Thunder Punch 17.658%                  | 
+ | Drain Punch 14.580%                    | 
+ | Bulk Up 12.383%                        | 
+ | Poison Jab 11.515%                     | 
+ | Ice Punch  8.737%                      | 
+ | Iron Head  7.050%                      | 
+ | Fire Punch  3.365%                     | 
+ | Other 17.311%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Pelipper +15.304%                      | 
+ | Kingdra +11.776%                       | 
+ | Ferrothorn +8.548%                     | 
+ | Magnezone +3.596%                      | 
+ | Zarude +2.602%                         | 
+ | Zeraora +2.149%                        | 
+ | Kyurem +1.891%                         | 
+ | Hydreigon +1.854%                      | 
+ | Seismitoad +0.742%                     | 
+ | Barraskewda +0.655%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Jellicent 74.432 (82.65±2.05)          |
+ |	 (6.8% KOed / 75.9% switched out) | 
+ | Venusaur 72.206 (74.38±0.54)           |
+ |	 (27.1% KOed / 47.3% switched out)| 
+ | Tangela 70.599 (82.99±3.10)            |
+ |	 (16.3% KOed / 66.7% switched out)| 
+ | Shedinja 70.479 (79.80±2.33)           |
+ |	 (5.4% KOed / 74.4% switched out) | 
+ | Starmie 69.409 (74.88±1.37)            |
+ |	 (24.5% KOed / 50.3% switched out)| 
+ | Vileplume 69.108 (77.58±2.12)          |
+ |	 (13.7% KOed / 63.9% switched out)| 
+ | Rillaboom 67.766 (68.87±0.28)          |
+ |	 (23.3% KOed / 45.6% switched out)| 
+ | Tangrowth 66.929 (69.19±0.57)          |
+ |	 (14.4% KOed / 54.8% switched out)| 
+ | Shiinotic 66.243 (72.10±1.46)          |
+ |	 (13.5% KOed / 58.6% switched out)| 
+ | Corsola-Galar 65.653 (71.85±1.55)      |
+ |	 (6.5% KOed / 65.3% switched out) | 
+ | Appletun 65.614 (77.10±2.87)           |
+ |	 (21.0% KOed / 56.1% switched out)| 
+ | Noivern 65.040 (71.81±1.69)            |
+ |	 (29.9% KOed / 41.9% switched out)| 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gengar                                 | 
+ +----------------------------------------+ 
+ | Raw count: 230830                      | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Cursed Body 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Black Sludge 29.224%                   | 
+ | Choice Scarf 25.418%                   | 
+ | Focus Sash 13.857%                     | 
+ | Life Orb 12.262%                       | 
+ | Choice Specs  7.996%                   | 
+ | Leftovers  3.576%                      | 
+ | Expert Belt  1.172%                    | 
+ | Air Balloon  1.025%                    | 
+ | Heavy-Duty Boots  0.537%               | 
+ | Other  4.932%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 67.520%          | 
+ | Timid:4/0/0/252/0/252  7.688%          | 
+ | Timid:0/0/4/252/0/252  3.708%          | 
+ | Timid:0/0/0/252/0/252  3.305%          | 
+ | Modest:0/0/0/252/4/252  3.264%         | 
+ | Modest:4/0/0/252/0/252  2.159%         | 
+ | Other 12.356%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Ball 87.058%                    | 
+ | Sludge Wave 68.482%                    | 
+ | Nasty Plot 54.890%                     | 
+ | Substitute 28.479%                     | 
+ | Trick 23.411%                          | 
+ | Thunderbolt 22.962%                    | 
+ | Sludge Bomb 17.705%                    | 
+ | Focus Blast 14.891%                    | 
+ | Dazzling Gleam 14.666%                 | 
+ | Destiny Bond 10.211%                   | 
+ | Hex  7.233%                            | 
+ | Energy Ball  6.300%                    | 
+ | Psychic  5.079%                        | 
+ | Will-O-Wisp  3.858%                    | 
+ | Dark Pulse  3.853%                     | 
+ | Taunt  3.424%                          | 
+ | Hypnosis  3.104%                       | 
+ | Giga Drain  2.570%                     | 
+ | Disable  1.673%                        | 
+ | Thunder  1.635%                        | 
+ | Other 18.515%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Crawdaunt +7.668%                      | 
+ | Lucario +4.069%                        | 
+ | Rhyperior +3.967%                      | 
+ | Hawlucha +3.954%                       | 
+ | Shiinotic +3.354%                      | 
+ | Mandibuzz +3.120%                      | 
+ | Rotom-Wash +2.918%                     | 
+ | Zoroark +2.822%                        | 
+ | Comfey +2.078%                         | 
+ | Gyarados +1.795%                       | 
+ | Gallade +1.022%                        | 
+ | Arcanine +0.744%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ | Weavile 78.141 (81.44±0.82)            |
+ |	 (38.1% KOed / 43.4% switched out)| 
+ | Bisharp 75.304 (78.50±0.80)            |
+ |	 (33.6% KOed / 44.9% switched out)| 
+ | Tyranitar 71.614 (74.32±0.68)          |
+ |	 (25.4% KOed / 48.9% switched out)| 
+ | Krookodile 71.441 (75.52±1.02)         |
+ |	 (30.9% KOed / 44.6% switched out)| 
+ | Alakazam 65.972 (68.50±0.63)           |
+ |	 (37.8% KOed / 30.7% switched out)| 
+ | Scizor 65.255 (67.59±0.58)             |
+ |	 (36.6% KOed / 30.9% switched out)| 
+ | Cinderace 65.218 (68.65±0.86)          |
+ |	 (40.8% KOed / 27.9% switched out)| 
+ | Zeraora 65.202 (66.61±0.35)            |
+ |	 (32.7% KOed / 33.9% switched out)| 
+ | Drapion 64.638 (73.78±2.29)            |
+ |	 (36.2% KOed / 37.6% switched out)| 
+ | Mimikyu 63.112 (68.29±1.30)            |
+ |	 (41.7% KOed / 26.6% switched out)| 
+ | Frosmoth 63.050 (74.37±2.83)           |
+ |	 (40.3% KOed / 34.0% switched out)| 
+ | Dragapult 62.525 (63.80±0.32)          |
+ |	 (29.4% KOed / 34.4% switched out)| 
+ +----------------------------------------+ 
