@@ -1,6 +1,7 @@
 const express = require('express');
 const db = require('./models');
 const mongoose = require("mongoose").set('debug', true);
+const cors = require('cors');
 require('dotenv').config();
 
 const PORT = process.env.PORT || 3000;
@@ -8,6 +9,7 @@ const app = express();
 
 const routes = require('./routes/routes')
 
+app.use(cors())
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
