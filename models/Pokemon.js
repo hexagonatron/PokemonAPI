@@ -18,18 +18,8 @@ const PokemonSchema = new Schema({
     ],
     spreads: [
         [
-            {
-                nature: {type: String},
-                spread: [
-                    {type: Number},
-                    {type: Number},
-                    {type: Number},
-                    {type: Number},
-                    {type: Number},
-                    {type: Number},
-                ]
-            },
-            { type: Number}
+            {type: Object},
+            {type: Number}
         ]
     ],
     moves: [
@@ -37,7 +27,8 @@ const PokemonSchema = new Schema({
             { type: String },
             { type: Number}
         ]
-    ]
+    ],
+    probability: {type: Number}
 })
 
 const Pokemon = mongoose.model("Pokemon", PokemonSchema);

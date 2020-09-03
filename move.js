@@ -29,12 +29,18 @@ const moves = [
     ["move 1", 1],
 ] */
 
+Array.prototype.shuffle = function(){
+    for(let i = this.length-1; i > 0; i--){
+        const j = Math.floor(Math.random() * (i + 1));
+        [this[i], this[j]] = [this[j], this[i]];
+    }
+    return this
+}
+
 const movesProbability = moves.map((move) => [move[0], (move[1]/100)])
 //.filter((move) => move[0] != "Other" && moves[0] != "Nothing");
 
 const movesProbabilitySorted = movesProbability.sort((a, b) => b[1] - a[1])
-
-console.log(movesProbabilitySorted)
 
 const selectFourMovesChristophersWay = (moveArr) => {
     const movesAvailable = [...moveArr];
@@ -79,11 +85,28 @@ const selectFourMovesChristophersWay = (moveArr) => {
 const selectFourMovesMyWay = (moveArr) => {
     const movesAvailable = JSON.parse(JSON.stringify(moveArr));
 
-    const ingegerProbs = movesAvailable.map((move) => [move[0], Math.round(move[1]*100000)])
-    console.log(ingegerProbs);
+    const availableMovesRandomised = movesAvailable.shuffle();
+    
+    let randomNumber = Math.random();
+
+    selected = [];
+
+    for(let i=0; i < 4; i++){
+        let cumlativeSum = 0;
+        for(move of availableMovesRandomised){
+            cumlativeSum += move[1];
+            if(randomNumber <= cumlativeSum){
+                selected.push(move[0]);
+                randomNumber+=1;
+                break;
+            }
+        }
+    }
+
+    return selected;
 }
 
-// console.log(selectFourMoves(movesProbabilitySorted));
+// console.log(selectFourMovesMyWay(movesProbabilitySorted));
 
 const testMethod = (method) => {
 
@@ -121,7 +144,8 @@ const testMethod = (method) => {
     
     console.log(percentages)
 }
-
+// console.log(moves)
 // testMethod(selectFourMovesChristophersWay);
+// testMethod(selectFourMovesMyWay);
 
-selectFourMovesMyWay(movesProbabilitySorted)
+// selectFourMovesMyWay(movesProbabilitySorted)
