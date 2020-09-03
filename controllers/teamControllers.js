@@ -148,7 +148,7 @@ const formatOnePokemonToShowdownString = (pokemonObject) => {
     const showdownString = 
     `${pokemonObject.name} @ ${pokemonObject.item}\n`+
     `Ability: ${pokemonObject.ability}\n`+
-    `Evs: ${pokemonObject.spread.evs.hp} HP / ${pokemonObject.spread.evs.atk} Atk / ${pokemonObject.spread.evs.def} Def / ${pokemonObject.spread.evs.spa} SpA / ${pokemonObject.spread.evs.spd} SpD / ${pokemonObject.spread.evs.spe} Spe\n`+
+    `EVs: ${pokemonObject.spread.evs.hp} HP / ${pokemonObject.spread.evs.atk} Atk / ${pokemonObject.spread.evs.def} Def / ${pokemonObject.spread.evs.spa} SpA / ${pokemonObject.spread.evs.spd} SpD / ${pokemonObject.spread.evs.spe} Spe\n`+
     `${pokemonObject.spread.nature} Nature\n`+
     `  - ${pokemonObject.moves[0]}\n`+
     `  - ${pokemonObject.moves[1]}\n`+
