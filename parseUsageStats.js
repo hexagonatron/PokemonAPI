@@ -1,10 +1,14 @@
 const fs = require('fs');
 const readline = require('readline');
 const stream = require('stream');
-const mongoose = require('mongoose');
-const db = require('./models');
 require('dotenv').config();
 const fetch = require('node-fetch');
+
+const {
+    emptyPokemonDocuments,
+    createBulkDbUpsertsFromUsageData,
+    processBulkDbOperationArray
+} = require('./controllers/dbOperations')
 
 //Read moveset Stats
 const readMovesetStats = (url = 'https://www.smogon.com/stats/2020-08/moveset/gen8ou-0.txt') => {
@@ -164,7 +168,10 @@ const readUsageStats = (url = 'https://www.smogon.com/stats/2020-08/gen8ou-0.txt
 const getMovesetStatsThenFillDb = async () => {
     return new Promise(async (resolve, reject) => {
         const pokemonObjects = await readMovesetStats();
-        upsertPokemonDocuments(pokemonObjects).then(res => {
+
+        const bulkOperationArray = createBulkDbUpsertsFromUsageData(pokemonObjects)
+
+        processBulkDbOperationArray(bulkOperationArray).then(res => {
             console.log(res);
             resolve();
         });
@@ -175,57 +182,14 @@ const getMovesetStatsThenFillDb = async () => {
 const getUsageStatsThenFillDb = async () => {
     return new Promise(async (resolve, reject) => {
         const pokemonObjects = await readUsageStats();
-        upsertPokemonDocuments(pokemonObjects).then(res => {
+
+        const bulkOperationArray = createBulkDbUpsertsFromUsageData(pokemonObjects);
+
+        processBulkDbOperationArray(bulkOperationArray).then(res => {
             console.log(res);
             resolve()
         });
     })
-}
-
-//Clear DB
-const emptyPokemonDocuments = () => {
-    return new Promise((resolve, reject) => {
-        mongoose.connect(process.env.MONGODB_URI, { useUnifiedTopology: true, useNewUrlParser: true }).then(() => {
-            db.Pokemon.deleteMany({}).then(res => {
-                console.log(res)
-                mongoose.disconnect();
-                resolve(res)
-
-            })
-        }).catch(err => {
-            mongoose.disconnect()
-            reject(err)
-        })
-    })
-}
-
-//Fill DB
-const upsertPokemonDocuments = (documentArray) => {
-
-    return new Promise((resolve, reject) => {
-        const bulkOperations = documentArray.map(pokemon => {
-            return {
-                'updateOne': {
-                    'filter': { 'name': pokemon.name },
-                    'update': pokemon,
-                    'upsert': true
-                }
-            }
-
-        });
-
-        mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true }).then(() => {
-            console.log("loading into database");
-            db.Pokemon.bulkWrite(bulkOperations).then(res => {
-                mongoose.disconnect();
-                resolve(res)
-            }).catch(err => {
-                mongoose.disconnect();
-                reject(err)
-            });
-        })
-    })
-
 }
 
 //Create stream from file

@@ -28,7 +28,15 @@ const PokemonSchema = new Schema({
             { type: Number}
         ]
     ],
-    probability: {type: Number}
+    probability: {type: Number},
+    smogon_sets: [
+        {
+            tier: {type: String},
+            sets: [
+                {type: Object}
+            ]
+        }
+    ]
 })
 
 const Pokemon = mongoose.model("Pokemon", PokemonSchema);
